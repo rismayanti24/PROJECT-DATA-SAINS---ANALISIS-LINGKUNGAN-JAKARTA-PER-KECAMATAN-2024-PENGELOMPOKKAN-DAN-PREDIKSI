@@ -1,0 +1,10 @@
+variabel,min_asli,maks_asli,rata2_asli,simpangan_baku_asli,skewness_asli,transformasi,skewness_setelah_transformasi,fitur_model
+volume_sampah_rata2,356.92,2879.07,927.3893,514.3578,1.8326,log(1+x) lalu Z-score,0.6571,ya
+jumlah_penduduk,85016.0,582327.0,262092.4286,125033.1659,0.6958,Z-score,0.6958,ya
+luas_km2,2.3676,43.56,15.4823,10.1325,1.1247,log(1+x) lalu Z-score,-0.0609,tidak
+kepadatan,8096.99,56702.06,20541.5105,9955.9562,1.629,log(1+x) lalu Z-score,0.3813,ya
+total_luas_rth,24165.0,2802447.0,601607.9643,719060.1494,1.5676,log(1+x) lalu Z-score,0.0143,tidak
+jumlah_rth,9.0,219.0,60.5476,37.4059,1.7175,log(1+x) lalu Z-score,-0.4135,tidak
+rth_per_kapita,0.1311,11.576,2.3508,2.827,1.8342,log(1+x) lalu Z-score,0.863,ya
+ip_air_rata2,4.837,13.258,7.6235,1.8565,0.8682,Z-score,0.8682,ya
+jumlah_titik_air,3.0,11.0,6.3333,1.6856,0.5126,Z-score,0.5126,tidak

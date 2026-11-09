@@ -1,0 +1,550 @@
+<html>
+  <head>
+    <meta charset="UTF-8" />
+  </head >
+  <body>
+    
+    <table>
+      <thead>
+        <tr><th><b>periode_data</b></th><th><b>wilayah</b></th><th><b>kecamatan</b></th><th><b>kelurahan</b></th><th><b>jumlah_penduduk</b></th><th><b>jumlah_kepadatan</b></th></tr>
+      </thead>
+      <tbody>
+        <tr><td>2024</td><td>KOTA ADM. JAKARTA PUSAT</td><td>JOHAR BARU</td><td>TANAH TINGGI</td><td>45230</td><td>71993.81</td></tr>
+        <tr><td>2024</td><td>KOTA ADM. JAKARTA UTARA</td><td>PENJARINGAN</td><td>PENJARINGAN</td><td>112592</td><td>24871.61</td></tr>
+        <tr><td>2024</td><td>KOTA ADM. JAKARTA UTARA</td><td>PENJARINGAN</td><td>KAMAL MUARA</td><td>19042</td><td>1221.74</td></tr>
+        <tr><td>2024</td><td>KOTA ADM. JAKARTA UTARA</td><td>PENJARINGAN</td><td>KAPUK MUARA</td><td>47531</td><td>5179.99</td></tr>
+        <tr><td>2024</td><td>KOTA ADM. JAKARTA UTARA</td><td>PENJARINGAN</td><td>PEJAGALAN</td><td>87481</td><td>23777.3</td></tr>
+        <tr><td>2024</td><td>KOTA ADM. JAKARTA UTARA</td><td>PENJARINGAN</td><td>PLUIT</td><td>59439</td><td>8137.41</td></tr>
+        <tr><td>2024</td><td>KOTA ADM. JAKARTA UTARA</td><td>TANJUNG PRIOK</td><td>TANJUNG PRIOK</td><td>41574</td><td>10793.5</td></tr>
+        <tr><td>2024</td><td>KOTA ADM. JAKARTA UTARA</td><td>TANJUNG PRIOK</td><td>SUNTER JAYA</td><td>78441</td><td>15271.43</td></tr>
+        <tr><td>2024</td><td>KOTA ADM. JAKARTA UTARA</td><td>TANJUNG PRIOK</td><td>PAPANGGO</td><td>49310</td><td>16048.02</td></tr>
+        <tr><td>2024</td><td>KOTA ADM. JAKARTA UTARA</td><td>TANJUNG PRIOK</td><td>SUNGAI BAMBU</td><td>36328</td><td>15275.45</td></tr>
+        <tr><td>2024</td><td>KOTA ADM. JAKARTA UTARA</td><td>TANJUNG PRIOK</td><td>KEBON BAWANG</td><td>59854</td><td>34872.63</td></tr>
+        <tr><td>2024</td><td>KOTA ADM. JAKARTA UTARA</td><td>TANJUNG PRIOK</td><td>SUNTER AGUNG</td><td>86275</td><td>16413.24</td></tr>
+        <tr><td>2024</td><td>KOTA ADM. JAKARTA UTARA</td><td>TANJUNG PRIOK</td><td>WARAKAS</td><td>54659</td><td>50479.29</td></tr>
+        <tr><td>2024</td><td>KOTA ADM. JAKARTA UTARA</td><td>KOJA</td><td>KOJA</td><td>33858</td><td>13171.42</td></tr>
+        <tr><td>2024</td><td>KOTA ADM. JAKARTA UTARA</td><td>KOJA</td><td>TUGU UTARA</td><td>85429</td><td>35798.93</td></tr>
+        <tr><td>2024</td><td>KOTA ADM. JAKARTA UTARA</td><td>KOJA</td><td>LAGOA</td><td>74047</td><td>47076.72</td></tr>
+        <tr><td>2024</td><td>KOTA ADM. JAKARTA UTARA</td><td>KOJA</td><td>RAWA BADAK UTARA</td><td>43213</td><td>34247.55</td></tr>
+        <tr><td>2024</td><td>KOTA ADM. JAKARTA UTARA</td><td>KOJA</td><td>TUGU SELATAN</td><td>51401</td><td>27692.08</td></tr>
+        <tr><td>2024</td><td>KOTA ADM. JAKARTA UTARA</td><td>KOJA</td><td>RAWA BADAK SELATAN</td><td>54331</td><td>27017.64</td></tr>
+        <tr><td>2024</td><td>KOTA ADM. JAKARTA UTARA</td><td>CILINCING</td><td>CILINCING</td><td>58944</td><td>8099.82</td></tr>
+        <tr><td>2024</td><td>KOTA ADM. JAKARTA UTARA</td><td>CILINCING</td><td>SUKAPURA</td><td>67285</td><td>11692.41</td></tr>
+        <tr><td>2024</td><td>KOTA ADM. JAKARTA UTARA</td><td>CILINCING</td><td>MARUNDA</td><td>40280</td><td>4978.24</td></tr>
+        <tr><td>2024</td><td>KOTA ADM. JAKARTA UTARA</td><td>CILINCING</td><td>KALIBARU</td><td>87119</td><td>17587.56</td></tr>
+        <tr><td>2024</td><td>KOTA ADM. JAKARTA UTARA</td><td>CILINCING</td><td>SEMPER TIMUR</td><td>46105</td><td>10366.93</td></tr>
+        <tr><td>2024</td><td>KOTA ADM. JAKARTA UTARA</td><td>CILINCING</td><td>ROROTAN</td><td>59582</td><td>6068.82</td></tr>
+        <tr><td>2024</td><td>KOTA ADM. JAKARTA UTARA</td><td>CILINCING</td><td>SEMPER BARAT</td><td>86414</td><td>26848.61</td></tr>
+        <tr><td>2024</td><td>KOTA ADM. JAKARTA UTARA</td><td>PADEMANGAN</td><td>PADEMANGAN TIMUR</td><td>46190</td><td>13212.7</td></tr>
+        <tr><td>2024</td><td>KOTA ADM. JAKARTA UTARA</td><td>PADEMANGAN</td><td>PADEMANGAN BARAT</td><td>90146</td><td>59439.52</td></tr>
+        <tr><td>2024</td><td>KOTA ADM. JAKARTA UTARA</td><td>PADEMANGAN</td><td>ANCOL</td><td>30251</td><td>3677.92</td></tr>
+        <tr><td>2024</td><td>KOTA ADM. JAKARTA UTARA</td><td>KELAPA GADING</td><td>KELAPA GADING TIMUR</td><td>39721</td><td>12680.8</td></tr>
+        <tr><td>2024</td><td>KOTA ADM. JAKARTA UTARA</td><td>KELAPA GADING</td><td>PEGANGSAAN DUA</td><td>60781</td><td>10966.89</td></tr>
+        <tr><td>2024</td><td>KOTA ADM. JAKARTA UTARA</td><td>KELAPA GADING</td><td>KELAPA GADING BARAT</td><td>44409</td><td>6141.34</td></tr>
+        <tr><td>2024</td><td>KOTA ADM. JAKARTA BARAT</td><td>CENGKARENG</td><td>CENGKARENG BARAT</td><td>82755</td><td>20994.54</td></tr>
+        <tr><td>2024</td><td>KOTA ADM. JAKARTA BARAT</td><td>CENGKARENG</td><td>DURI KOSAMBI</td><td>102410</td><td>19137.46</td></tr>
+        <tr><td>2024</td><td>KOTA ADM. JAKARTA BARAT</td><td>CENGKARENG</td><td>RAWA BUAYA</td><td>81548</td><td>21950.2</td></tr>
+        <tr><td>2024</td><td>KOTA ADM. JAKARTA BARAT</td><td>CENGKARENG</td><td>KEDAUNG KALI ANGKE</td><td>40898</td><td>13718.65</td></tr>
+        <tr><td>2024</td><td>KOTA ADM. JAKARTA BARAT</td><td>CENGKARENG</td><td>KAPUK</td><td>171169</td><td>33396.39</td></tr>
+        <tr><td>2024</td><td>KOTA ADM. JAKARTA BARAT</td><td>CENGKARENG</td><td>CENGKARENG TIMUR</td><td>103008</td><td>22385.95</td></tr>
+        <tr><td>2024</td><td>KOTA ADM. JAKARTA BARAT</td><td>GROGOL PETAMBURAN</td><td>GROGOL</td><td>19456</td><td>19299.09</td></tr>
+        <tr><td>2024</td><td>KOTA ADM. JAKARTA BARAT</td><td>GROGOL PETAMBURAN</td><td>TANJUNG DUREN UTARA</td><td>19407</td><td>14614.24</td></tr>
+        <tr><td>2024</td><td>KOTA ADM. JAKARTA BARAT</td><td>GROGOL PETAMBURAN</td><td>TOMANG</td><td>34484</td><td>19232.58</td></tr>
+        <tr><td>2024</td><td>KOTA ADM. JAKARTA BARAT</td><td>GROGOL PETAMBURAN</td><td>JELAMBAR</td><td>34562</td><td>22472.69</td></tr>
+        <tr><td>2024</td><td>KOTA ADM. JAKARTA BARAT</td><td>GROGOL PETAMBURAN</td><td>TANJUNG DUREN SELATAN</td><td>29637</td><td>21840.27</td></tr>
+        <tr><td>2024</td><td>KOTA ADM. JAKARTA BARAT</td><td>GROGOL PETAMBURAN</td><td>JELAMBAR BARU</td><td>45294</td><td>30206.3</td></tr>
+        <tr><td>2024</td><td>KOTA ADM. JAKARTA BARAT</td><td>GROGOL PETAMBURAN</td><td>WIJAYA KUSUMA</td><td>47333</td><td>20514.43</td></tr>
+        <tr><td>2024</td><td>KOTA ADM. JAKARTA BARAT</td><td>TAMAN SARI</td><td>TAMAN SARI</td><td>16485</td><td>24235.89</td></tr>
+        <tr><td>2024</td><td>KOTA ADM. JAKARTA BARAT</td><td>TAMAN SARI</td><td>KRUKUT</td><td>22980</td><td>41676.51</td></tr>
+        <tr><td>2024</td><td>KOTA ADM. JAKARTA BARAT</td><td>TAMAN SARI</td><td>MAPHAR</td><td>18690</td><td>29677</td></tr>
+        <tr><td>2024</td><td>KOTA ADM. JAKARTA BARAT</td><td>TAMAN SARI</td><td>TANGKI</td><td>14899</td><td>38852</td></tr>
+        <tr><td>2025</td><td>KAB. ADM. KEP. SERIBU</td><td>KEPULAUAN SERIBU UTARA</td><td>PULAU KELAPA</td><td>7454</td><td>6251.05</td></tr>
+        <tr><td>2025</td><td>KAB. ADM. KEP. SERIBU</td><td>KEPULAUAN SERIBU UTARA</td><td>PULAU HARAPAN</td><td>2878</td><td>612.06</td></tr>
+        <tr><td>2025</td><td>KAB. ADM. KEP. SERIBU</td><td>KEPULAUAN SERIBU SELATAN</td><td>PULAU UNTUNG JAWA</td><td>2693</td><td>2081.32</td></tr>
+        <tr><td>2025</td><td>KAB. ADM. KEP. SERIBU</td><td>KEPULAUAN SERIBU SELATAN</td><td>PULAU TIDUNG</td><td>6164</td><td>5956.19</td></tr>
+        <tr><td>2025</td><td>KAB. ADM. KEP. SERIBU</td><td>KEPULAUAN SERIBU SELATAN</td><td>PULAU PARI</td><td>3857</td><td>2213.75</td></tr>
+        <tr><td>2025</td><td>KOTA ADM. JAKARTA PUSAT</td><td>GAMBIR</td><td>GAMBIR</td><td>2712</td><td>1076.13</td></tr>
+        <tr><td>2025</td><td>KOTA ADM. JAKARTA PUSAT</td><td>GAMBIR</td><td>CIDENG</td><td>16423</td><td>13099.73</td></tr>
+        <tr><td>2025</td><td>KOTA ADM. JAKARTA PUSAT</td><td>GAMBIR</td><td>PETOJO UTARA</td><td>19561</td><td>17322.73</td></tr>
+        <tr><td>2025</td><td>KOTA ADM. JAKARTA PUSAT</td><td>GAMBIR</td><td>PETOJO SELATAN</td><td>16818</td><td>14769.86</td></tr>
+        <tr><td>2025</td><td>KOTA ADM. JAKARTA PUSAT</td><td>GAMBIR</td><td>KEBON KELAPA</td><td>10844</td><td>13798.58</td></tr>
+        <tr><td>2025</td><td>KOTA ADM. JAKARTA PUSAT</td><td>GAMBIR</td><td>DURI PULO</td><td>21682</td><td>31893.88</td></tr>
+        <tr><td>2025</td><td>KOTA ADM. JAKARTA PUSAT</td><td>SAWAH BESAR</td><td>PASAR BARU</td><td>13438</td><td>7555.93</td></tr>
+        <tr><td>2025</td><td>KOTA ADM. JAKARTA PUSAT</td><td>SAWAH BESAR</td><td>KARANG ANYAR</td><td>29241</td><td>58760.41</td></tr>
+        <tr><td>2025</td><td>KOTA ADM. JAKARTA PUSAT</td><td>SAWAH BESAR</td><td>KARTINI</td><td>24927</td><td>47982.12</td></tr>
+        <tr><td>2025</td><td>KOTA ADM. JAKARTA PUSAT</td><td>SAWAH BESAR</td><td>GUNUNG SAHARI UTARA</td><td>18876</td><td>14970.26</td></tr>
+        <tr><td>2025</td><td>KOTA ADM. JAKARTA PUSAT</td><td>SAWAH BESAR</td><td>MANGGA DUA SELATAN</td><td>31890</td><td>24513.99</td></tr>
+        <tr><td>2025</td><td>KOTA ADM. JAKARTA PUSAT</td><td>KEMAYORAN</td><td>KEMAYORAN</td><td>23727</td><td>40101.95</td></tr>
+        <tr><td>2025</td><td>KOTA ADM. JAKARTA PUSAT</td><td>KEMAYORAN</td><td>KEBON KOSONG</td><td>36322</td><td>37806.83</td></tr>
+        <tr><td>2025</td><td>KOTA ADM. JAKARTA PUSAT</td><td>KEMAYORAN</td><td>HARAPAN MULIA</td><td>26577</td><td>50429.3</td></tr>
+        <tr><td>2025</td><td>KOTA ADM. JAKARTA PUSAT</td><td>KEMAYORAN</td><td>SERDANG</td><td>35025</td><td>42915.01</td></tr>
+        <tr><td>2025</td><td>KOTA ADM. JAKARTA PUSAT</td><td>KEMAYORAN</td><td>GUNUNG SAHARI SELATAN</td><td>21372</td><td>13137.69</td></tr>
+        <tr><td>2025</td><td>KOTA ADM. JAKARTA PUSAT</td><td>KEMAYORAN</td><td>CEMPAKA BARU</td><td>38233</td><td>39628.48</td></tr>
+        <tr><td>2025</td><td>KOTA ADM. JAKARTA PUSAT</td><td>KEMAYORAN</td><td>SUMUR BATU</td><td>26553</td><td>23316.65</td></tr>
+        <tr><td>2025</td><td>KOTA ADM. JAKARTA PUSAT</td><td>KEMAYORAN</td><td>UTAN PANJANG</td><td>34355</td><td>63559.75</td></tr>
+        <tr><td>2025</td><td>KOTA ADM. JAKARTA PUSAT</td><td>SENEN</td><td>SENEN</td><td>7630</td><td>9110.25</td></tr>
+        <tr><td>2025</td><td>KOTA ADM. JAKARTA PUSAT</td><td>SENEN</td><td>KENARI</td><td>10656</td><td>11884.36</td></tr>
+        <tr><td>2025</td><td>KOTA ADM. JAKARTA PUSAT</td><td>SENEN</td><td>PASEBAN</td><td>27010</td><td>32944.65</td></tr>
+        <tr><td>2025</td><td>KOTA ADM. JAKARTA PUSAT</td><td>SENEN</td><td>KRAMAT</td><td>33215</td><td>46030.74</td></tr>
+        <tr><td>2025</td><td>KOTA ADM. JAKARTA PUSAT</td><td>SENEN</td><td>KWITANG</td><td>17727</td><td>40015.35</td></tr>
+        <tr><td>2025</td><td>KOTA ADM. JAKARTA PUSAT</td><td>SENEN</td><td>BUNGUR</td><td>20393</td><td>32314.34</td></tr>
+        <tr><td>2025</td><td>KOTA ADM. JAKARTA PUSAT</td><td>CEMPAKA PUTIH</td><td>CEMPAKA PUTIH TIMUR</td><td>26833</td><td>12322.45</td></tr>
+        <tr><td>2025</td><td>KOTA ADM. JAKARTA PUSAT</td><td>CEMPAKA PUTIH</td><td>CEMPAKA PUTIH BARAT</td><td>41522</td><td>33173.55</td></tr>
+        <tr><td>2025</td><td>KOTA ADM. JAKARTA PUSAT</td><td>CEMPAKA PUTIH</td><td>RAWASARI</td><td>25539</td><td>20663.29</td></tr>
+        <tr><td>2025</td><td>KOTA ADM. JAKARTA PUSAT</td><td>MENTENG</td><td>MENTENG</td><td>29080</td><td>12016.98</td></tr>
+        <tr><td>2025</td><td>KOTA ADM. JAKARTA PUSAT</td><td>MENTENG</td><td>PEGANGSAAN</td><td>26696</td><td>27493.33</td></tr>
+        <tr><td>2025</td><td>KOTA ADM. JAKARTA PUSAT</td><td>MENTENG</td><td>CIKINI</td><td>9130</td><td>11483.35</td></tr>
+        <tr><td>2025</td><td>KOTA ADM. JAKARTA PUSAT</td><td>MENTENG</td><td>GONDANGDIA</td><td>4471</td><td>3051.9</td></tr>
+        <tr><td>2025</td><td>KOTA ADM. JAKARTA PUSAT</td><td>MENTENG</td><td>KEBON SIRIH</td><td>13801</td><td>16800.23</td></tr>
+        <tr><td>2025</td><td>KOTA ADM. JAKARTA PUSAT</td><td>TANAH ABANG</td><td>GELORA</td><td>3422</td><td>1024.52</td></tr>
+        <tr><td>2025</td><td>KOTA ADM. JAKARTA PUSAT</td><td>TANAH ABANG</td><td>BENDUNGAN HILIR</td><td>23842</td><td>15051.67</td></tr>
+        <tr><td>2025</td><td>KOTA ADM. JAKARTA PUSAT</td><td>TANAH ABANG</td><td>KARET TENGSIN</td><td>22166</td><td>14513.48</td></tr>
+        <tr><td>2025</td><td>KOTA ADM. JAKARTA PUSAT</td><td>TANAH ABANG</td><td>PETAMBURAN</td><td>38142</td><td>43333.19</td></tr>
+        <tr><td>2025</td><td>KOTA ADM. JAKARTA PUSAT</td><td>TANAH ABANG</td><td>KEBON MELATI</td><td>36472</td><td>28850.78</td></tr>
+        <tr><td>2025</td><td>KOTA ADM. JAKARTA PUSAT</td><td>TANAH ABANG</td><td>KEBON KACANG</td><td>24735</td><td>34151.72</td></tr>
+        <tr><td>2025</td><td>KOTA ADM. JAKARTA PUSAT</td><td>TANAH ABANG</td><td>KAMPUNG BALI</td><td>12005</td><td>16537.13</td></tr>
+        <tr><td>2025</td><td>KOTA ADM. JAKARTA PUSAT</td><td>JOHAR BARU</td><td>JOHAR BARU</td><td>41405</td><td>35407.65</td></tr>
+        <tr><td>2025</td><td>KOTA ADM. JAKARTA PUSAT</td><td>JOHAR BARU</td><td>KAMPUNG RAWA</td><td>24877</td><td>82044.36</td></tr>
+        <tr><td>2025</td><td>KOTA ADM. JAKARTA PUSAT</td><td>JOHAR BARU</td><td>GALUR</td><td>20825</td><td>78055.02</td></tr>
+        <tr><td>2025</td><td>KOTA ADM. JAKARTA PUSAT</td><td>JOHAR BARU</td><td>TANAH TINGGI</td><td>44456</td><td>70761.86</td></tr>
+        <tr><td>2025</td><td>KOTA ADM. JAKARTA UTARA</td><td>PENJARINGAN</td><td>PENJARINGAN</td><td>110661</td><td>24624.49</td></tr>
+        <tr><td>2025</td><td>KOTA ADM. JAKARTA UTARA</td><td>PENJARINGAN</td><td>KAMAL MUARA</td><td>19176</td><td>1210.53</td></tr>
+        <tr><td>2025</td><td>KOTA ADM. JAKARTA UTARA</td><td>PENJARINGAN</td><td>KAPUK MUARA</td><td>46836</td><td>5150.31</td></tr>
+        <tr><td>2025</td><td>KOTA ADM. JAKARTA UTARA</td><td>PENJARINGAN</td><td>PEJAGALAN</td><td>85596</td><td>23264.97</td></tr>
+        <tr><td>2025</td><td>KOTA ADM. JAKARTA UTARA</td><td>PENJARINGAN</td><td>PLUIT</td><td>58810</td><td>8036.52</td></tr>
+        <tr><td>2025</td><td>KOTA ADM. JAKARTA UTARA</td><td>TANJUNG PRIOK</td><td>TANJUNG PRIOK</td><td>40800</td><td>10529.25</td></tr>
+        <tr><td>2025</td><td>KOTA ADM. JAKARTA UTARA</td><td>TANJUNG PRIOK</td><td>SUNTER JAYA</td><td>77398</td><td>15068.38</td></tr>
+        <tr><td>2025</td><td>KOTA ADM. JAKARTA UTARA</td><td>TANJUNG PRIOK</td><td>PAPANGGO</td><td>48551</td><td>15801.02</td></tr>
+        <tr><td>2025</td><td>KOTA ADM. JAKARTA UTARA</td><td>TANJUNG PRIOK</td><td>SUNGAI BAMBU</td><td>35714</td><td>15017.24</td></tr>
+        <tr><td>2025</td><td>KOTA ADM. JAKARTA UTARA</td><td>TANJUNG PRIOK</td><td>KEBON BAWANG</td><td>58296</td><td>33964.9</td></tr>
+        <tr><td>2025</td><td>KOTA ADM. JAKARTA UTARA</td><td>TANJUNG PRIOK</td><td>SUNTER AGUNG</td><td>85083</td><td>16186.46</td></tr>
+        <tr><td>2025</td><td>KOTA ADM. JAKARTA UTARA</td><td>TANJUNG PRIOK</td><td>WARAKAS</td><td>53702</td><td>49595.49</td></tr>
+        <tr><td>2025</td><td>KOTA ADM. JAKARTA UTARA</td><td>KOJA</td><td>KOJA</td><td>32961</td><td>12816.22</td></tr>
+        <tr><td>2025</td><td>KOTA ADM. JAKARTA UTARA</td><td>KOJA</td><td>TUGU UTARA</td><td>84293</td><td>35322.83</td></tr>
+        <tr><td>2025</td><td>KOTA ADM. JAKARTA UTARA</td><td>KOJA</td><td>LAGOA</td><td>72939</td><td>46372.31</td></tr>
+        <tr><td>2025</td><td>KOTA ADM. JAKARTA UTARA</td><td>KOJA</td><td>RAWA BADAK UTARA</td><td>42593</td><td>33756.28</td></tr>
+        <tr><td>2025</td><td>KOTA ADM. JAKARTA UTARA</td><td>KOJA</td><td>TUGU SELATAN</td><td>50988</td><td>27469.61</td></tr>
+        <tr><td>2025</td><td>KOTA ADM. JAKARTA UTARA</td><td>KOJA</td><td>RAWA BADAK SELATAN</td><td>53575</td><td>26641.64</td></tr>
+        <tr><td>2025</td><td>KOTA ADM. JAKARTA UTARA</td><td>CILINCING</td><td>CILINCING</td><td>58108</td><td>7885.87</td></tr>
+        <tr><td>2025</td><td>KOTA ADM. JAKARTA UTARA</td><td>CILINCING</td><td>SUKAPURA</td><td>66031</td><td>11474.49</td></tr>
+        <tr><td>2025</td><td>KOTA ADM. JAKARTA UTARA</td><td>CILINCING</td><td>MARUNDA</td><td>40024</td><td>4945.04</td></tr>
+        <tr><td>2025</td><td>KOTA ADM. JAKARTA UTARA</td><td>CILINCING</td><td>KALIBARU</td><td>86043</td><td>17396.27</td></tr>
+        <tr><td>2025</td><td>KOTA ADM. JAKARTA UTARA</td><td>CILINCING</td><td>SEMPER TIMUR</td><td>45610</td><td>10255.64</td></tr>
+        <tr><td>2025</td><td>KOTA ADM. JAKARTA UTARA</td><td>CILINCING</td><td>ROROTAN</td><td>59553</td><td>6065.86</td></tr>
+        <tr><td>2025</td><td>KOTA ADM. JAKARTA UTARA</td><td>CILINCING</td><td>SEMPER BARAT</td><td>84978</td><td>26402.49</td></tr>
+        <tr><td>2025</td><td>KOTA ADM. JAKARTA UTARA</td><td>PADEMANGAN</td><td>PADEMANGAN TIMUR</td><td>45609</td><td>13046.5</td></tr>
+        <tr><td>2025</td><td>KOTA ADM. JAKARTA UTARA</td><td>PADEMANGAN</td><td>PADEMANGAN BARAT</td><td>88507</td><td>58358.83</td></tr>
+        <tr><td>2025</td><td>KOTA ADM. JAKARTA UTARA</td><td>PADEMANGAN</td><td>ANCOL</td><td>30168</td><td>3647.9</td></tr>
+        <tr><td>2025</td><td>KOTA ADM. JAKARTA UTARA</td><td>KELAPA GADING</td><td>KELAPA GADING TIMUR</td><td>39213</td><td>12518.64</td></tr>
+        <tr><td>2025</td><td>KOTA ADM. JAKARTA UTARA</td><td>KELAPA GADING</td><td>PEGANGSAAN DUA</td><td>59923</td><td>10812.07</td></tr>
+        <tr><td>2025</td><td>KOTA ADM. JAKARTA UTARA</td><td>KELAPA GADING</td><td>KELAPA GADING BARAT</td><td>43840</td><td>6062.65</td></tr>
+        <tr><td>2025</td><td>KOTA ADM. JAKARTA BARAT</td><td>CENGKARENG</td><td>CENGKARENG BARAT</td><td>82123</td><td>20834.2</td></tr>
+        <tr><td>2025</td><td>KOTA ADM. JAKARTA BARAT</td><td>CENGKARENG</td><td>DURI KOSAMBI</td><td>101612</td><td>18988.35</td></tr>
+        <tr><td>2025</td><td>KOTA ADM. JAKARTA BARAT</td><td>CENGKARENG</td><td>RAWA BUAYA</td><td>80829</td><td>21756.65</td></tr>
+        <tr><td>2024</td><td>KOTA ADM. JAKARTA BARAT</td><td>KEMBANGAN</td><td>KEMBANGAN UTARA</td><td>69794</td><td>16678.81</td></tr>
+        <tr><td>2024</td><td>KOTA ADM. JAKARTA BARAT</td><td>KEMBANGAN</td><td>MERUYA UTARA</td><td>55394</td><td>13623.05</td></tr>
+        <tr><td>2024</td><td>KOTA ADM. JAKARTA BARAT</td><td>KEMBANGAN</td><td>MERUYA SELATAN</td><td>42256</td><td>13117.21</td></tr>
+        <tr><td>2024</td><td>KOTA ADM. JAKARTA BARAT</td><td>KEMBANGAN</td><td>SRENGSENG</td><td>58005</td><td>12716.87</td></tr>
+        <tr><td>2024</td><td>KOTA ADM. JAKARTA BARAT</td><td>KEMBANGAN</td><td>JOGLO</td><td>51870</td><td>11845.93</td></tr>
+        <tr><td>2024</td><td>KOTA ADM. JAKARTA BARAT</td><td>KEMBANGAN</td><td>KEMBANGAN SELATAN</td><td>33943</td><td>7521.4</td></tr>
+        <tr><td>2024</td><td>KOTA ADM. JAKARTA SELATAN</td><td>TEBET</td><td>TEBET TIMUR</td><td>20855</td><td>15840.82</td></tr>
+        <tr><td>2024</td><td>KOTA ADM. JAKARTA SELATAN</td><td>TEBET</td><td>TEBET BARAT</td><td>24533</td><td>14940.42</td></tr>
+        <tr><td>2024</td><td>KOTA ADM. JAKARTA SELATAN</td><td>TEBET</td><td>MENTENG DALAM</td><td>42737</td><td>17640.39</td></tr>
+        <tr><td>2024</td><td>KOTA ADM. JAKARTA SELATAN</td><td>TEBET</td><td>KEBON BARU</td><td>41690</td><td>32800.69</td></tr>
+        <tr><td>2024</td><td>KOTA ADM. JAKARTA SELATAN</td><td>TEBET</td><td>BUKIT DURI</td><td>40340</td><td>37612.79</td></tr>
+        <tr><td>2024</td><td>KOTA ADM. JAKARTA SELATAN</td><td>TEBET</td><td>MANGGARAI SELATAN</td><td>27185</td><td>48728.33</td></tr>
+        <tr><td>2024</td><td>KOTA ADM. JAKARTA SELATAN</td><td>TEBET</td><td>MANGGARAI</td><td>33978</td><td>31908.48</td></tr>
+        <tr><td>2024</td><td>KOTA ADM. JAKARTA SELATAN</td><td>SETIABUDI</td><td>SETIA BUDI</td><td>3385</td><td>5034.11</td></tr>
+        <tr><td>2024</td><td>KOTA ADM. JAKARTA SELATAN</td><td>SETIABUDI</td><td>KARET SEMANGGI</td><td>3379</td><td>3737.17</td></tr>
+        <tr><td>2024</td><td>KOTA ADM. JAKARTA SELATAN</td><td>SETIABUDI</td><td>KARET KUNINGAN</td><td>19285</td><td>11328.33</td></tr>
+        <tr><td>2024</td><td>KOTA ADM. JAKARTA SELATAN</td><td>SETIABUDI</td><td>KARET</td><td>11041</td><td>11137.49</td></tr>
+        <tr><td>2024</td><td>KOTA ADM. JAKARTA BARAT</td><td>TAMAN SARI</td><td>MANGGA BESAR</td><td>8455</td><td>15412.5</td></tr>
+        <tr><td>2024</td><td>KOTA ADM. JAKARTA BARAT</td><td>TAMAN SARI</td><td>KEAGUNGAN</td><td>20670</td><td>58459.64</td></tr>
+        <tr><td>2024</td><td>KOTA ADM. JAKARTA BARAT</td><td>TAMAN SARI</td><td>GLODOK</td><td>8583</td><td>23276.03</td></tr>
+        <tr><td>2024</td><td>KOTA ADM. JAKARTA BARAT</td><td>TAMAN SARI</td><td>PINANGSIA</td><td>12147</td><td>12390.18</td></tr>
+        <tr><td>2024</td><td>KOTA ADM. JAKARTA BARAT</td><td>TAMBORA</td><td>TAMBORA</td><td>11907</td><td>41337.72</td></tr>
+        <tr><td>2024</td><td>KOTA ADM. JAKARTA BARAT</td><td>TAMBORA</td><td>KALI ANYAR</td><td>27881</td><td>89234.76</td></tr>
+        <tr><td>2024</td><td>KOTA ADM. JAKARTA BARAT</td><td>TAMBORA</td><td>DURI UTARA</td><td>22553</td><td>60944.96</td></tr>
+        <tr><td>2024</td><td>KOTA ADM. JAKARTA BARAT</td><td>TAMBORA</td><td>TANAH SEREAL</td><td>30683</td><td>48953.21</td></tr>
+        <tr><td>2024</td><td>KOTA ADM. JAKARTA BARAT</td><td>TAMBORA</td><td>KRENDANG</td><td>23976</td><td>71679.61</td></tr>
+        <tr><td>2024</td><td>KOTA ADM. JAKARTA BARAT</td><td>TAMBORA</td><td>JEMBATAN BESI</td><td>35451</td><td>67879.99</td></tr>
+        <tr><td>2024</td><td>KOTA ADM. JAKARTA BARAT</td><td>TAMBORA</td><td>ANGKE</td><td>33742</td><td>42439.22</td></tr>
+        <tr><td>2024</td><td>KOTA ADM. JAKARTA BARAT</td><td>TAMBORA</td><td>JEMBATAN LIMA</td><td>24458</td><td>51666.92</td></tr>
+        <tr><td>2024</td><td>KOTA ADM. JAKARTA BARAT</td><td>TAMBORA</td><td>PEKOJAN</td><td>27063</td><td>34746.9</td></tr>
+        <tr><td>2024</td><td>KOTA ADM. JAKARTA BARAT</td><td>TAMBORA</td><td>ROA MALAKA</td><td>3635</td><td>6870.42</td></tr>
+        <tr><td>2024</td><td>KOTA ADM. JAKARTA BARAT</td><td>TAMBORA</td><td>DURI SELATAN</td><td>16712</td><td>43574.89</td></tr>
+        <tr><td>2024</td><td>KOTA ADM. JAKARTA BARAT</td><td>KEBON JERUK</td><td>KEBON JERUK</td><td>69300</td><td>18798.52</td></tr>
+        <tr><td>2024</td><td>KOTA ADM. JAKARTA BARAT</td><td>KEBON JERUK</td><td>SUKABUMI UTARA</td><td>48544</td><td>30833.48</td></tr>
+        <tr><td>2024</td><td>KOTA ADM. JAKARTA BARAT</td><td>KEBON JERUK</td><td>SUKABUMI SELATAN</td><td>46543</td><td>27769.59</td></tr>
+        <tr><td>2024</td><td>KOTA ADM. JAKARTA BARAT</td><td>KEBON JERUK</td><td>KELAPA DUA</td><td>29469</td><td>20665.25</td></tr>
+        <tr><td>2024</td><td>KOTA ADM. JAKARTA BARAT</td><td>KEBON JERUK</td><td>DURI KEPA</td><td>72411</td><td>19775.42</td></tr>
+        <tr><td>2024</td><td>KOTA ADM. JAKARTA BARAT</td><td>KEBON JERUK</td><td>KEDOYA UTARA</td><td>56755</td><td>17771.02</td></tr>
+        <tr><td>2024</td><td>KOTA ADM. JAKARTA BARAT</td><td>KEBON JERUK</td><td>KEDOYA SELATAN</td><td>39619</td><td>16270.65</td></tr>
+        <tr><td>2024</td><td>KOTA ADM. JAKARTA BARAT</td><td>KALIDERES</td><td>KALIDERES</td><td>92060</td><td>16318.97</td></tr>
+        <tr><td>2024</td><td>KOTA ADM. JAKARTA BARAT</td><td>KALIDERES</td><td>SEMANAN</td><td>93024</td><td>17361.92</td></tr>
+        <tr><td>2024</td><td>KOTA ADM. JAKARTA BARAT</td><td>KALIDERES</td><td>TEGAL ALUR</td><td>106960</td><td>19134.52</td></tr>
+        <tr><td>2024</td><td>KOTA ADM. JAKARTA BARAT</td><td>KALIDERES</td><td>KAMAL</td><td>72063</td><td>14816.25</td></tr>
+        <tr><td>2024</td><td>KOTA ADM. JAKARTA BARAT</td><td>KALIDERES</td><td>PEGADUNGAN</td><td>99969</td><td>13289.1</td></tr>
+        <tr><td>2024</td><td>KOTA ADM. JAKARTA BARAT</td><td>PAL MERAH</td><td>PALMERAH</td><td>76498</td><td>34697.51</td></tr>
+        <tr><td>2024</td><td>KOTA ADM. JAKARTA BARAT</td><td>PAL MERAH</td><td>SLIPI</td><td>19964</td><td>20474.76</td></tr>
+        <tr><td>2024</td><td>KOTA ADM. JAKARTA BARAT</td><td>PAL MERAH</td><td>KOTA BAMBU UTARA</td><td>30290</td><td>45471.34</td></tr>
+        <tr><td>2024</td><td>KOTA ADM. JAKARTA BARAT</td><td>PAL MERAH</td><td>JATIPULO</td><td>34409</td><td>41204.04</td></tr>
+        <tr><td>2024</td><td>KOTA ADM. JAKARTA BARAT</td><td>PAL MERAH</td><td>KEMANGGISAN</td><td>38051</td><td>18110.23</td></tr>
+        <tr><td>2024</td><td>KOTA ADM. JAKARTA BARAT</td><td>PAL MERAH</td><td>KOTA BAMBU SELATAN</td><td>26630</td><td>45566.44</td></tr>
+        <tr><td>2024</td><td>KOTA ADM. JAKARTA SELATAN</td><td>SETIABUDI</td><td>MENTENG ATAS</td><td>32600</td><td>31229.64</td></tr>
+        <tr><td>2024</td><td>KOTA ADM. JAKARTA SELATAN</td><td>SETIABUDI</td><td>PASAR MANGGIS</td><td>32145</td><td>41308.78</td></tr>
+        <tr><td>2024</td><td>KOTA ADM. JAKARTA SELATAN</td><td>SETIABUDI</td><td>GUNTUR</td><td>4342</td><td>6612.54</td></tr>
+        <tr><td>2024</td><td>KOTA ADM. JAKARTA SELATAN</td><td>SETIABUDI</td><td>KUNINGAN TIMUR</td><td>6970</td><td>3208.29</td></tr>
+        <tr><td>2024</td><td>KOTA ADM. JAKARTA SELATAN</td><td>MAMPANG PRAPATAN</td><td>MAMPANG PRAPATAN</td><td>21679</td><td>27062.49</td></tr>
+        <tr><td>2024</td><td>KOTA ADM. JAKARTA SELATAN</td><td>MAMPANG PRAPATAN</td><td>BANGKA</td><td>25400</td><td>7992.55</td></tr>
+        <tr><td>2024</td><td>KOTA ADM. JAKARTA SELATAN</td><td>MAMPANG PRAPATAN</td><td>PELA MAMPANG</td><td>50718</td><td>26166.48</td></tr>
+        <tr><td>2024</td><td>KOTA ADM. JAKARTA SELATAN</td><td>MAMPANG PRAPATAN</td><td>TEGAL PARANG</td><td>39718</td><td>37894.4</td></tr>
+        <tr><td>2024</td><td>KOTA ADM. JAKARTA SELATAN</td><td>MAMPANG PRAPATAN</td><td>KUNINGAN BARAT</td><td>14922</td><td>15244.25</td></tr>
+        <tr><td>2024</td><td>KOTA ADM. JAKARTA SELATAN</td><td>PASAR MINGGU</td><td>PASAR MINGGU</td><td>29575</td><td>15276.41</td></tr>
+        <tr><td>2024</td><td>KOTA ADM. JAKARTA SELATAN</td><td>PASAR MINGGU</td><td>JATI PADANG</td><td>44657</td><td>18633.58</td></tr>
+        <tr><td>2024</td><td>KOTA ADM. JAKARTA SELATAN</td><td>PASAR MINGGU</td><td>CILANDAK TIMUR</td><td>29677</td><td>7742.04</td></tr>
+        <tr><td>2024</td><td>KOTA ADM. JAKARTA SELATAN</td><td>PASAR MINGGU</td><td>RAGUNAN</td><td>47824</td><td>10020.94</td></tr>
+        <tr><td>2024</td><td>KOTA ADM. JAKARTA SELATAN</td><td>PASAR MINGGU</td><td>PEJATEN TIMUR</td><td>71236</td><td>24269.59</td></tr>
+        <tr><td>2024</td><td>KOTA ADM. JAKARTA SELATAN</td><td>PASAR MINGGU</td><td>PEJATEN BARAT</td><td>44628</td><td>15082.17</td></tr>
+        <tr><td>2024</td><td>KOTA ADM. JAKARTA SELATAN</td><td>PASAR MINGGU</td><td>KEBAGUSAN</td><td>57094</td><td>20517.99</td></tr>
+        <tr><td>2024</td><td>KOTA ADM. JAKARTA SELATAN</td><td>KEBAYORAN LAMA</td><td>KEBAYORAN LAMA UTARA</td><td>51430</td><td>22203.04</td></tr>
+        <tr><td>2024</td><td>KOTA ADM. JAKARTA SELATAN</td><td>KEBAYORAN LAMA</td><td>PONDOK PINANG</td><td>68588</td><td>10102.43</td></tr>
+        <tr><td>2024</td><td>KOTA ADM. JAKARTA SELATAN</td><td>KEBAYORAN LAMA</td><td>CIPULIR</td><td>49164</td><td>29212.29</td></tr>
+        <tr><td>2024</td><td>KOTA ADM. JAKARTA SELATAN</td><td>KEBAYORAN LAMA</td><td>GROGOL UTARA</td><td>50318</td><td>15236.8</td></tr>
+        <tr><td>2024</td><td>KOTA ADM. JAKARTA SELATAN</td><td>KEBAYORAN LAMA</td><td>GROGOL SELATAN</td><td>53599</td><td>18593.78</td></tr>
+        <tr><td>2024</td><td>KOTA ADM. JAKARTA SELATAN</td><td>KEBAYORAN LAMA</td><td>KEBAYORAN LAMA SELATAN</td><td>48936</td><td>23498.36</td></tr>
+        <tr><td>2024</td><td>KOTA ADM. JAKARTA SELATAN</td><td>CILANDAK</td><td>CILANDAK BARAT</td><td>59968</td><td>10168.13</td></tr>
+        <tr><td>2024</td><td>KOTA ADM. JAKARTA SELATAN</td><td>CILANDAK</td><td>LEBAK BULUS</td><td>46467</td><td>10630.31</td></tr>
+        <tr><td>2024</td><td>KOTA ADM. JAKARTA SELATAN</td><td>CILANDAK</td><td>PONDOK LABU</td><td>56793</td><td>16263.19</td></tr>
+        <tr><td>2024</td><td>KOTA ADM. JAKARTA SELATAN</td><td>CILANDAK</td><td>GANDARIA SELATAN</td><td>26193</td><td>16380.67</td></tr>
+        <tr><td>2024</td><td>KOTA ADM. JAKARTA SELATAN</td><td>CILANDAK</td><td>CIPETE SELATAN</td><td>31547</td><td>13221.22</td></tr>
+        <tr><td>2024</td><td>KOTA ADM. JAKARTA SELATAN</td><td>KEBAYORAN BARU</td><td>MELAWAI</td><td>2815</td><td>2196.69</td></tr>
+        <tr><td>2024</td><td>KOTA ADM. JAKARTA SELATAN</td><td>KEBAYORAN BARU</td><td>GUNUNG</td><td>10501</td><td>7392.95</td></tr>
+        <tr><td>2024</td><td>KOTA ADM. JAKARTA SELATAN</td><td>KEBAYORAN BARU</td><td>KRAMAT PELA</td><td>16740</td><td>13389.16</td></tr>
+        <tr><td>2024</td><td>KOTA ADM. JAKARTA SELATAN</td><td>KEBAYORAN BARU</td><td>SELONG</td><td>2988</td><td>2083.38</td></tr>
+        <tr><td>2024</td><td>KOTA ADM. JAKARTA SELATAN</td><td>KEBAYORAN BARU</td><td>RAWA BARAT</td><td>6411</td><td>9845.16</td></tr>
+        <tr><td>2024</td><td>KOTA ADM. JAKARTA SELATAN</td><td>KEBAYORAN BARU</td><td>SENAYAN</td><td>3001</td><td>2100.97</td></tr>
+        <tr><td>2024</td><td>KOTA ADM. JAKARTA SELATAN</td><td>KEBAYORAN BARU</td><td>PULO</td><td>6373</td><td>5780.58</td></tr>
+        <tr><td>2024</td><td>KOTA ADM. JAKARTA SELATAN</td><td>KEBAYORAN BARU</td><td>PETOGOGAN</td><td>13171</td><td>15451.88</td></tr>
+        <tr><td>2024</td><td>KOTA ADM. JAKARTA SELATAN</td><td>KEBAYORAN BARU</td><td>GANDARIA UTARA</td><td>47364</td><td>30150.28</td></tr>
+        <tr><td>2024</td><td>KOTA ADM. JAKARTA SELATAN</td><td>KEBAYORAN BARU</td><td>CIPETE UTARA</td><td>38877</td><td>22884.4</td></tr>
+        <tr><td>2024</td><td>KOTA ADM. JAKARTA SELATAN</td><td>PANCORAN</td><td>PANCORAN</td><td>24210</td><td>17300.3</td></tr>
+        <tr><td>2024</td><td>KOTA ADM. JAKARTA SELATAN</td><td>PANCORAN</td><td>KALIBATA</td><td>51342</td><td>21816.47</td></tr>
+        <tr><td>2024</td><td>KOTA ADM. JAKARTA SELATAN</td><td>PANCORAN</td><td>RAWAJATI</td><td>26867</td><td>18187.98</td></tr>
+        <tr><td>2024</td><td>KOTA ADM. JAKARTA SELATAN</td><td>PANCORAN</td><td>DUREN TIGA</td><td>33476</td><td>16737.1</td></tr>
+        <tr><td>2024</td><td>KOTA ADM. JAKARTA SELATAN</td><td>PANCORAN</td><td>PENGADEGAN</td><td>26334</td><td>27103.59</td></tr>
+        <tr><td>2024</td><td>KOTA ADM. JAKARTA SELATAN</td><td>PANCORAN</td><td>CIKOKO</td><td>12313</td><td>18459.72</td></tr>
+        <tr><td>2024</td><td>KOTA ADM. JAKARTA SELATAN</td><td>JAGAKARSA</td><td>JAGAKARSA</td><td>82336</td><td>16211.85</td></tr>
+        <tr><td>2024</td><td>KOTA ADM. JAKARTA SELATAN</td><td>JAGAKARSA</td><td>SRENGSENG SAWAH</td><td>74674</td><td>13401.25</td></tr>
+        <tr><td>2024</td><td>KOTA ADM. JAKARTA SELATAN</td><td>JAGAKARSA</td><td>CIGANJUR</td><td>51420</td><td>14120.23</td></tr>
+        <tr><td>2024</td><td>KOTA ADM. JAKARTA SELATAN</td><td>JAGAKARSA</td><td>LENTENG AGUNG</td><td>67769</td><td>21497.78</td></tr>
+        <tr><td>2024</td><td>KOTA ADM. JAKARTA SELATAN</td><td>JAGAKARSA</td><td>TANJUNG BARAT</td><td>51057</td><td>14272.25</td></tr>
+        <tr><td>2024</td><td>KOTA ADM. JAKARTA TIMUR</td><td>PULOGADUNG</td><td>CIPINANG</td><td>46203</td><td>30795.82</td></tr>
+        <tr><td>2024</td><td>KOTA ADM. JAKARTA TIMUR</td><td>PULOGADUNG</td><td>JATINEGARA KAUM</td><td>29617</td><td>22863.2</td></tr>
+        <tr><td>2024</td><td>KOTA ADM. JAKARTA TIMUR</td><td>PULOGADUNG</td><td>RAWAMANGUN</td><td>44412</td><td>16897.86</td></tr>
+        <tr><td>2024</td><td>KOTA ADM. JAKARTA TIMUR</td><td>PULOGADUNG</td><td>KAYU PUTIH</td><td>48576</td><td>12653.68</td></tr>
+        <tr><td>2024</td><td>KOTA ADM. JAKARTA TIMUR</td><td>PULOGADUNG</td><td>JATI</td><td>38645</td><td>18647.27</td></tr>
+        <tr><td>2024</td><td>KOTA ADM. JAKARTA TIMUR</td><td>JATINEGARA</td><td>KAMPUNG MELAYU</td><td>31776</td><td>65970.08</td></tr>
+        <tr><td>2024</td><td>KOTA ADM. JAKARTA TIMUR</td><td>JATINEGARA</td><td>BIDARA CINA</td><td>43202</td><td>34737.63</td></tr>
+        <tr><td>2024</td><td>KOTA ADM. JAKARTA TIMUR</td><td>JATINEGARA</td><td>BALI MESTER</td><td>10940</td><td>16266.5</td></tr>
+        <tr><td>2024</td><td>KOTA ADM. JAKARTA TIMUR</td><td>JATINEGARA</td><td>RAWA BUNGA</td><td>25939</td><td>30758.75</td></tr>
+        <tr><td>2024</td><td>KOTA ADM. JAKARTA TIMUR</td><td>JATINEGARA</td><td>CIPINANG CEMPEDAK</td><td>38095</td><td>23753.51</td></tr>
+        <tr><td>2024</td><td>KOTA ADM. JAKARTA TIMUR</td><td>JATINEGARA</td><td>CIPINANG MUARA</td><td>67566</td><td>25326.91</td></tr>
+        <tr><td>2024</td><td>KOTA ADM. JAKARTA TIMUR</td><td>JATINEGARA</td><td>CIPINANG BESAR SELATAN</td><td>44343</td><td>26059.41</td></tr>
+        <tr><td>2024</td><td>KOTA ADM. JAKARTA TIMUR</td><td>JATINEGARA</td><td>CIPINANG BESAR UTARA</td><td>56958</td><td>50347.52</td></tr>
+        <tr><td>2024</td><td>KOTA ADM. JAKARTA TIMUR</td><td>KRAMATJATI</td><td>KRAMATJATI</td><td>41145</td><td>27158.66</td></tr>
+        <tr><td>2024</td><td>KOTA ADM. JAKARTA TIMUR</td><td>KRAMATJATI</td><td>TENGAH</td><td>56737</td><td>29117.75</td></tr>
+        <tr><td>2024</td><td>KOTA ADM. JAKARTA TIMUR</td><td>KRAMATJATI</td><td>DUKUH</td><td>31264</td><td>18124.52</td></tr>
+        <tr><td>2024</td><td>KOTA ADM. JAKARTA TIMUR</td><td>KRAMATJATI</td><td>BATU AMPAR</td><td>61552</td><td>24255.97</td></tr>
+        <tr><td>2024</td><td>KOTA ADM. JAKARTA TIMUR</td><td>KRAMATJATI</td><td>BALEKAMBANG</td><td>37951</td><td>22471.02</td></tr>
+        <tr><td>2024</td><td>KOTA ADM. JAKARTA TIMUR</td><td>KRAMATJATI</td><td>CILILITAN</td><td>50233</td><td>28380.4</td></tr>
+        <tr><td>2024</td><td>KOTA ADM. JAKARTA TIMUR</td><td>KRAMATJATI</td><td>CAWANG</td><td>38545</td><td>20434.33</td></tr>
+        <tr><td>2024</td><td>KOTA ADM. JAKARTA TIMUR</td><td>PASAR REBO</td><td>GEDONG</td><td>44090</td><td>17986.82</td></tr>
+        <tr><td>2024</td><td>KOTA ADM. JAKARTA TIMUR</td><td>PASAR REBO</td><td>BARU</td><td>30098</td><td>14467.75</td></tr>
+        <tr><td>2024</td><td>KOTA ADM. JAKARTA TIMUR</td><td>PASAR REBO</td><td>CIJANTUNG</td><td>51539</td><td>21375.86</td></tr>
+        <tr><td>2024</td><td>KOTA ADM. JAKARTA TIMUR</td><td>PASAR REBO</td><td>KALISARI</td><td>55613</td><td>21699.96</td></tr>
+        <tr><td>2024</td><td>KOTA ADM. JAKARTA TIMUR</td><td>PASAR REBO</td><td>PEKAYON</td><td>55047</td><td>18554.52</td></tr>
+        <tr><td>2024</td><td>KOTA ADM. JAKARTA TIMUR</td><td>CAKUNG</td><td>JATINEGARA</td><td>103672</td><td>15906.8</td></tr>
+        <tr><td>2024</td><td>KOTA ADM. JAKARTA TIMUR</td><td>CAKUNG</td><td>RAWA TERATE</td><td>29327</td><td>7120.93</td></tr>
+        <tr><td>2024</td><td>KOTA ADM. JAKARTA TIMUR</td><td>CAKUNG</td><td>PENGGILINGAN</td><td>130904</td><td>29650.72</td></tr>
+        <tr><td>2024</td><td>KOTA ADM. JAKARTA TIMUR</td><td>CAKUNG</td><td>CAKUNG TIMUR</td><td>77485</td><td>8544.91</td></tr>
+        <tr><td>2024</td><td>KOTA ADM. JAKARTA TIMUR</td><td>CAKUNG</td><td>PULO GEBANG</td><td>128187</td><td>19341.53</td></tr>
+        <tr><td>2024</td><td>KOTA ADM. JAKARTA TIMUR</td><td>CAKUNG</td><td>UJUNG MENTENG</td><td>39406</td><td>9001.66</td></tr>
+        <tr><td>2024</td><td>KOTA ADM. JAKARTA TIMUR</td><td>CAKUNG</td><td>CAKUNG BARAT</td><td>73346</td><td>11946.02</td></tr>
+        <tr><td>2024</td><td>KOTA ADM. JAKARTA TIMUR</td><td>DUREN SAWIT</td><td>DUREN SAWIT</td><td>76714</td><td>16499.11</td></tr>
+        <tr><td>2024</td><td>KOTA ADM. JAKARTA TIMUR</td><td>DUREN SAWIT</td><td>PONDOK BAMBU</td><td>76143</td><td>18731.63</td></tr>
+        <tr><td>2024</td><td>KOTA ADM. JAKARTA SELATAN</td><td>JAGAKARSA</td><td>CIPEDAK</td><td>52129</td><td>12897.01</td></tr>
+        <tr><td>2024</td><td>KOTA ADM. JAKARTA SELATAN</td><td>PESANGGRAHAN</td><td>PESANGGRAHAN</td><td>34309</td><td>17727.3</td></tr>
+        <tr><td>2024</td><td>KOTA ADM. JAKARTA SELATAN</td><td>PESANGGRAHAN</td><td>BINTARO</td><td>65703</td><td>14371.56</td></tr>
+        <tr><td>2024</td><td>KOTA ADM. JAKARTA SELATAN</td><td>PESANGGRAHAN</td><td>PETUKANGAN UTARA</td><td>68497</td><td>24405.19</td></tr>
+        <tr><td>2024</td><td>KOTA ADM. JAKARTA SELATAN</td><td>PESANGGRAHAN</td><td>PETUKANGAN SELATAN</td><td>44964</td><td>21075.11</td></tr>
+        <tr><td>2024</td><td>KOTA ADM. JAKARTA SELATAN</td><td>PESANGGRAHAN</td><td>ULUJAMI</td><td>51174</td><td>25026.97</td></tr>
+        <tr><td>2024</td><td>KOTA ADM. JAKARTA TIMUR</td><td>MATRAMAN</td><td>PISANGAN BARU</td><td>37915</td><td>52542.49</td></tr>
+        <tr><td>2024</td><td>KOTA ADM. JAKARTA TIMUR</td><td>MATRAMAN</td><td>UTAN KAYU UTARA</td><td>33223</td><td>33384.71</td></tr>
+        <tr><td>2024</td><td>KOTA ADM. JAKARTA TIMUR</td><td>MATRAMAN</td><td>KAYU MANIS</td><td>29712</td><td>54416.41</td></tr>
+        <tr><td>2024</td><td>KOTA ADM. JAKARTA TIMUR</td><td>MATRAMAN</td><td>PALMERIAM</td><td>22842</td><td>35149.08</td></tr>
+        <tr><td>2024</td><td>KOTA ADM. JAKARTA TIMUR</td><td>MATRAMAN</td><td>KEBON MANGGIS</td><td>19200</td><td>24628.37</td></tr>
+        <tr><td>2024</td><td>KOTA ADM. JAKARTA TIMUR</td><td>MATRAMAN</td><td>UTAN KAYU SELATAN</td><td>40089</td><td>34400.17</td></tr>
+        <tr><td>2024</td><td>KOTA ADM. JAKARTA TIMUR</td><td>PULOGADUNG</td><td>PULO GADUNG</td><td>41446</td><td>23467.14</td></tr>
+        <tr><td>2024</td><td>KOTA ADM. JAKARTA TIMUR</td><td>PULOGADUNG</td><td>PISANGAN TIMUR</td><td>49023</td><td>27181.68</td></tr>
+        <tr><td>2024</td><td>KOTA ADM. JAKARTA TIMUR</td><td>DUREN SAWIT</td><td>KLENDER</td><td>87459</td><td>29044.42</td></tr>
+        <tr><td>2024</td><td>KOTA ADM. JAKARTA TIMUR</td><td>DUREN SAWIT</td><td>PONDOK KELAPA</td><td>92893</td><td>16243.71</td></tr>
+        <tr><td>2024</td><td>KOTA ADM. JAKARTA TIMUR</td><td>DUREN SAWIT</td><td>MALAKA SARI</td><td>32296</td><td>24485.94</td></tr>
+        <tr><td>2024</td><td>KOTA ADM. JAKARTA TIMUR</td><td>DUREN SAWIT</td><td>MALAKA JAYA</td><td>35350</td><td>33628.85</td></tr>
+        <tr><td>2024</td><td>KOTA ADM. JAKARTA TIMUR</td><td>DUREN SAWIT</td><td>PONDOK KOPI</td><td>44588</td><td>19748.19</td></tr>
+        <tr><td>2024</td><td>KOTA ADM. JAKARTA TIMUR</td><td>MAKASAR</td><td>MAKASAR</td><td>42475</td><td>29108.64</td></tr>
+        <tr><td>2024</td><td>KOTA ADM. JAKARTA TIMUR</td><td>MAKASAR</td><td>PINANGRANTI</td><td>35635</td><td>15555.33</td></tr>
+        <tr><td>2024</td><td>KOTA ADM. JAKARTA TIMUR</td><td>MAKASAR</td><td>KEBON PALA</td><td>56966</td><td>24882.04</td></tr>
+        <tr><td>2024</td><td>KOTA ADM. JAKARTA TIMUR</td><td>MAKASAR</td><td>HALIM PERDANA KUSUMA</td><td>34157</td><td>2639.26</td></tr>
+        <tr><td>2024</td><td>KOTA ADM. JAKARTA TIMUR</td><td>MAKASAR</td><td>CIPINANG MELAYU</td><td>52134</td><td>20540.15</td></tr>
+        <tr><td>2024</td><td>KOTA ADM. JAKARTA TIMUR</td><td>CIRACAS</td><td>CIRACAS</td><td>82183</td><td>20332.63</td></tr>
+        <tr><td>2024</td><td>KOTA ADM. JAKARTA TIMUR</td><td>CIRACAS</td><td>CIBUBUR</td><td>84649</td><td>17120.69</td></tr>
+        <tr><td>2024</td><td>KOTA ADM. JAKARTA TIMUR</td><td>CIRACAS</td><td>KELAPA DUA WETAN</td><td>60156</td><td>17885.3</td></tr>
+        <tr><td>2024</td><td>KOTA ADM. JAKARTA TIMUR</td><td>CIRACAS</td><td>SUSUKAN</td><td>47114</td><td>21615.45</td></tr>
+        <tr><td>2024</td><td>KOTA ADM. JAKARTA TIMUR</td><td>CIRACAS</td><td>RAMBUTAN</td><td>46677</td><td>20154.31</td></tr>
+        <tr><td>2024</td><td>KOTA ADM. JAKARTA TIMUR</td><td>CIPAYUNG</td><td>CIPAYUNG</td><td>33980</td><td>13745.39</td></tr>
+        <tr><td>2024</td><td>KOTA ADM. JAKARTA TIMUR</td><td>CIPAYUNG</td><td>CILANGKAP</td><td>37235</td><td>6668.92</td></tr>
+        <tr><td>2024</td><td>KOTA ADM. JAKARTA TIMUR</td><td>CIPAYUNG</td><td>PONDOK RANGGON</td><td>35248</td><td>7467.72</td></tr>
+        <tr><td>2024</td><td>KOTA ADM. JAKARTA TIMUR</td><td>CIPAYUNG</td><td>MUNJUL</td><td>31890</td><td>15578.52</td></tr>
+        <tr><td>2024</td><td>KOTA ADM. JAKARTA TIMUR</td><td>CIPAYUNG</td><td>SETU</td><td>27649</td><td>9744.77</td></tr>
+        <tr><td>2024</td><td>KOTA ADM. JAKARTA TIMUR</td><td>CIPAYUNG</td><td>BAMBU APUS</td><td>34155</td><td>9676.11</td></tr>
+        <tr><td>2024</td><td>KOTA ADM. JAKARTA TIMUR</td><td>CIPAYUNG</td><td>LUBANG BUAYA</td><td>82864</td><td>22968.8</td></tr>
+        <tr><td>2024</td><td>KOTA ADM. JAKARTA TIMUR</td><td>CIPAYUNG</td><td>CEGER</td><td>23944</td><td>8195.74</td></tr>
+        <tr><td>2025</td><td>KOTA ADM. JAKARTA BARAT</td><td>CENGKARENG</td><td>KEDAUNG KALI ANGKE</td><td>40262</td><td>13505.3</td></tr>
+        <tr><td>2025</td><td>KOTA ADM. JAKARTA BARAT</td><td>CENGKARENG</td><td>KAPUK</td><td>169666</td><td>33103.17</td></tr>
+        <tr><td>2025</td><td>KOTA ADM. JAKARTA BARAT</td><td>CENGKARENG</td><td>CENGKARENG TIMUR</td><td>100909</td><td>21929.78</td></tr>
+        <tr><td>2025</td><td>KOTA ADM. JAKARTA BARAT</td><td>GROGOL PETAMBURAN</td><td>GROGOL</td><td>19128</td><td>18973.74</td></tr>
+        <tr><td>2025</td><td>KOTA ADM. JAKARTA BARAT</td><td>GROGOL PETAMBURAN</td><td>TANJUNG DUREN UTARA</td><td>18946</td><td>14267.1</td></tr>
+        <tr><td>2025</td><td>KOTA ADM. JAKARTA BARAT</td><td>GROGOL PETAMBURAN</td><td>TOMANG</td><td>33945</td><td>18931.96</td></tr>
+        <tr><td>2025</td><td>KOTA ADM. JAKARTA BARAT</td><td>GROGOL PETAMBURAN</td><td>JELAMBAR</td><td>33743</td><td>21940.1</td></tr>
+        <tr><td>2025</td><td>KOTA ADM. JAKARTA BARAT</td><td>GROGOL PETAMBURAN</td><td>TANJUNG DUREN SELATAN</td><td>29166</td><td>21493.16</td></tr>
+        <tr><td>2025</td><td>KOTA ADM. JAKARTA BARAT</td><td>GROGOL PETAMBURAN</td><td>JELAMBAR BARU</td><td>44543</td><td>29705.43</td></tr>
+        <tr><td>2025</td><td>KOTA ADM. JAKARTA BARAT</td><td>GROGOL PETAMBURAN</td><td>WIJAYA KUSUMA</td><td>46598</td><td>20195.9</td></tr>
+        <tr><td>2025</td><td>KOTA ADM. JAKARTA BARAT</td><td>TAMAN SARI</td><td>TAMAN SARI</td><td>16145</td><td>23736.05</td></tr>
+        <tr><td>2025</td><td>KOTA ADM. JAKARTA BARAT</td><td>TAMAN SARI</td><td>KRUKUT</td><td>22625</td><td>41032.66</td></tr>
+        <tr><td>2025</td><td>KOTA ADM. JAKARTA BARAT</td><td>TAMAN SARI</td><td>MAPHAR</td><td>18264</td><td>29000.56</td></tr>
+        <tr><td>2025</td><td>KOTA ADM. JAKARTA BARAT</td><td>TAMAN SARI</td><td>TANGKI</td><td>14498</td><td>37806.31</td></tr>
+        <tr><td>2025</td><td>KOTA ADM. JAKARTA BARAT</td><td>TAMAN SARI</td><td>MANGGA BESAR</td><td>8305</td><td>15139.06</td></tr>
+        <tr><td>2025</td><td>KOTA ADM. JAKARTA BARAT</td><td>TAMAN SARI</td><td>KEAGUNGAN</td><td>20409</td><td>57721.51</td></tr>
+        <tr><td>2025</td><td>KOTA ADM. JAKARTA BARAT</td><td>TAMAN SARI</td><td>GLODOK</td><td>8383</td><td>22733.68</td></tr>
+        <tr><td>2025</td><td>KOTA ADM. JAKARTA BARAT</td><td>TAMAN SARI</td><td>PINANGSIA</td><td>11902</td><td>12140.28</td></tr>
+        <tr><td>2025</td><td>KOTA ADM. JAKARTA BARAT</td><td>TAMBORA</td><td>TAMBORA</td><td>11678</td><td>40542.7</td></tr>
+        <tr><td>2025</td><td>KOTA ADM. JAKARTA BARAT</td><td>TAMBORA</td><td>KALI ANYAR</td><td>27224</td><td>87132.14</td></tr>
+        <tr><td>2025</td><td>KOTA ADM. JAKARTA BARAT</td><td>TAMBORA</td><td>DURI UTARA</td><td>22056</td><td>59601.95</td></tr>
+        <tr><td>2025</td><td>KOTA ADM. JAKARTA BARAT</td><td>TAMBORA</td><td>TANAH SEREAL</td><td>30173</td><td>48139.54</td></tr>
+        <tr><td>2025</td><td>KOTA ADM. JAKARTA BARAT</td><td>TAMBORA</td><td>KRENDANG</td><td>23535</td><td>70361.27</td></tr>
+        <tr><td>2025</td><td>KOTA ADM. JAKARTA BARAT</td><td>TAMBORA</td><td>JEMBATAN BESI</td><td>34832</td><td>66694.75</td></tr>
+        <tr><td>2025</td><td>KOTA ADM. JAKARTA BARAT</td><td>TAMBORA</td><td>ANGKE</td><td>33094</td><td>41624.22</td></tr>
+        <tr><td>2025</td><td>KOTA ADM. JAKARTA BARAT</td><td>TAMBORA</td><td>JEMBATAN LIMA</td><td>24009</td><td>50718.45</td></tr>
+        <tr><td>2025</td><td>KOTA ADM. JAKARTA BARAT</td><td>TAMBORA</td><td>PEKOJAN</td><td>26479</td><td>33997.08</td></tr>
+        <tr><td>2025</td><td>KOTA ADM. JAKARTA BARAT</td><td>TAMBORA</td><td>ROA MALAKA</td><td>3553</td><td>6715.44</td></tr>
+        <tr><td>2025</td><td>KOTA ADM. JAKARTA BARAT</td><td>TAMBORA</td><td>DURI SELATAN</td><td>16308</td><td>42521.46</td></tr>
+        <tr><td>2024</td><td>KAB. ADM. KEP. SERIBU</td><td>KEPULAUAN SERIBU UTARA</td><td>PULAU PANGGANG</td><td>7269</td><td>7917.91</td></tr>
+        <tr><td>2024</td><td>KAB. ADM. KEP. SERIBU</td><td>KEPULAUAN SERIBU UTARA</td><td>PULAU KELAPA</td><td>7445</td><td>6516.02</td></tr>
+        <tr><td>2024</td><td>KAB. ADM. KEP. SERIBU</td><td>KEPULAUAN SERIBU UTARA</td><td>PULAU HARAPAN</td><td>2864</td><td>616.29</td></tr>
+        <tr><td>2024</td><td>KAB. ADM. KEP. SERIBU</td><td>KEPULAUAN SERIBU SELATAN</td><td>PULAU UNTUNG JAWA</td><td>2704</td><td>2088.7</td></tr>
+        <tr><td>2024</td><td>KAB. ADM. KEP. SERIBU</td><td>KEPULAUAN SERIBU SELATAN</td><td>PULAU TIDUNG</td><td>6209</td><td>5956.87</td></tr>
+        <tr><td>2024</td><td>KAB. ADM. KEP. SERIBU</td><td>KEPULAUAN SERIBU SELATAN</td><td>PULAU PARI</td><td>3843</td><td>2286.96</td></tr>
+        <tr><td>2024</td><td>KOTA ADM. JAKARTA PUSAT</td><td>GAMBIR</td><td>GAMBIR</td><td>2792</td><td>1107.88</td></tr>
+        <tr><td>2024</td><td>KOTA ADM. JAKARTA PUSAT</td><td>GAMBIR</td><td>CIDENG</td><td>17078</td><td>13622.15</td></tr>
+        <tr><td>2024</td><td>KOTA ADM. JAKARTA PUSAT</td><td>GAMBIR</td><td>PETOJO UTARA</td><td>20024</td><td>17732.76</td></tr>
+        <tr><td>2024</td><td>KOTA ADM. JAKARTA PUSAT</td><td>GAMBIR</td><td>PETOJO SELATAN</td><td>17122</td><td>15036.8</td></tr>
+        <tr><td>2024</td><td>KOTA ADM. JAKARTA PUSAT</td><td>GAMBIR</td><td>KEBON KELAPA</td><td>11154</td><td>14193.04</td></tr>
+        <tr><td>2024</td><td>KOTA ADM. JAKARTA PUSAT</td><td>GAMBIR</td><td>DURI PULO</td><td>22468</td><td>33050.06</td></tr>
+        <tr><td>2024</td><td>KOTA ADM. JAKARTA PUSAT</td><td>SAWAH BESAR</td><td>PASAR BARU</td><td>13803</td><td>7761.16</td></tr>
+        <tr><td>2024</td><td>KOTA ADM. JAKARTA PUSAT</td><td>SAWAH BESAR</td><td>KARANG ANYAR</td><td>29970</td><td>60225.35</td></tr>
+        <tr><td>2024</td><td>KOTA ADM. JAKARTA PUSAT</td><td>SAWAH BESAR</td><td>KARTINI</td><td>25318</td><td>48734.76</td></tr>
+        <tr><td>2024</td><td>KOTA ADM. JAKARTA PUSAT</td><td>SAWAH BESAR</td><td>GUNUNG SAHARI UTARA</td><td>19146</td><td>15184.41</td></tr>
+        <tr><td>2024</td><td>KOTA ADM. JAKARTA PUSAT</td><td>SAWAH BESAR</td><td>MANGGA DUA SELATAN</td><td>32360</td><td>24875.19</td></tr>
+        <tr><td>2024</td><td>KOTA ADM. JAKARTA PUSAT</td><td>KEMAYORAN</td><td>KEMAYORAN</td><td>24189</td><td>40882.82</td></tr>
+        <tr><td>2024</td><td>KOTA ADM. JAKARTA PUSAT</td><td>KEMAYORAN</td><td>KEBON KOSONG</td><td>37030</td><td>38543.78</td></tr>
+        <tr><td>2024</td><td>KOTA ADM. JAKARTA PUSAT</td><td>KEMAYORAN</td><td>HARAPAN MULIA</td><td>27038</td><td>51304.06</td></tr>
+        <tr><td>2024</td><td>KOTA ADM. JAKARTA PUSAT</td><td>KEMAYORAN</td><td>SERDANG</td><td>35647</td><td>43677.1</td></tr>
+        <tr><td>2024</td><td>KOTA ADM. JAKARTA PUSAT</td><td>KEMAYORAN</td><td>GUNUNG SAHARI SELATAN</td><td>21824</td><td>13415.54</td></tr>
+        <tr><td>2024</td><td>KOTA ADM. JAKARTA PUSAT</td><td>KEMAYORAN</td><td>CEMPAKA BARU</td><td>38983</td><td>40405.84</td></tr>
+        <tr><td>2024</td><td>KOTA ADM. JAKARTA PUSAT</td><td>KEMAYORAN</td><td>SUMUR BATU</td><td>27057</td><td>23759.25</td></tr>
+        <tr><td>2024</td><td>KOTA ADM. JAKARTA PUSAT</td><td>KEMAYORAN</td><td>UTAN PANJANG</td><td>35030</td><td>64808.52</td></tr>
+        <tr><td>2024</td><td>KOTA ADM. JAKARTA PUSAT</td><td>SENEN</td><td>SENEN</td><td>7725</td><td>9223.69</td></tr>
+        <tr><td>2024</td><td>KOTA ADM. JAKARTA PUSAT</td><td>SENEN</td><td>KENARI</td><td>11188</td><td>12477.68</td></tr>
+        <tr><td>2024</td><td>KOTA ADM. JAKARTA PUSAT</td><td>SENEN</td><td>PASEBAN</td><td>27687</td><td>33770.39</td></tr>
+        <tr><td>2024</td><td>KOTA ADM. JAKARTA PUSAT</td><td>SENEN</td><td>KRAMAT</td><td>33818</td><td>46866.41</td></tr>
+        <tr><td>2024</td><td>KOTA ADM. JAKARTA PUSAT</td><td>SENEN</td><td>KWITANG</td><td>18022</td><td>40681.24</td></tr>
+        <tr><td>2024</td><td>KOTA ADM. JAKARTA PUSAT</td><td>SENEN</td><td>BUNGUR</td><td>20948</td><td>33193.77</td></tr>
+        <tr><td>2024</td><td>KOTA ADM. JAKARTA PUSAT</td><td>CEMPAKA PUTIH</td><td>CEMPAKA PUTIH TIMUR</td><td>27305</td><td>12539.22</td></tr>
+        <tr><td>2024</td><td>KOTA ADM. JAKARTA PUSAT</td><td>CEMPAKA PUTIH</td><td>CEMPAKA PUTIH BARAT</td><td>42179</td><td>33698.49</td></tr>
+        <tr><td>2024</td><td>KOTA ADM. JAKARTA PUSAT</td><td>CEMPAKA PUTIH</td><td>RAWASARI</td><td>25920</td><td>20971.51</td></tr>
+        <tr><td>2024</td><td>KOTA ADM. JAKARTA PUSAT</td><td>MENTENG</td><td>MENTENG</td><td>29615</td><td>12238.05</td></tr>
+        <tr><td>2024</td><td>KOTA ADM. JAKARTA PUSAT</td><td>MENTENG</td><td>PEGANGSAAN</td><td>27132</td><td>27942.37</td></tr>
+        <tr><td>2024</td><td>KOTA ADM. JAKARTA PUSAT</td><td>MENTENG</td><td>CIKINI</td><td>9567</td><td>12032.99</td></tr>
+        <tr><td>2024</td><td>KOTA ADM. JAKARTA PUSAT</td><td>MENTENG</td><td>GONDANGDIA</td><td>4530</td><td>3092.16</td></tr>
+        <tr><td>2024</td><td>KOTA ADM. JAKARTA PUSAT</td><td>MENTENG</td><td>KEBON SIRIH</td><td>14172</td><td>17251.86</td></tr>
+        <tr><td>2024</td><td>KOTA ADM. JAKARTA PUSAT</td><td>TANAH ABANG</td><td>GELORA</td><td>3503</td><td>1048.77</td></tr>
+        <tr><td>2024</td><td>KOTA ADM. JAKARTA PUSAT</td><td>TANAH ABANG</td><td>BENDUNGAN HILIR</td><td>24395</td><td>15400.76</td></tr>
+        <tr><td>2024</td><td>KOTA ADM. JAKARTA PUSAT</td><td>TANAH ABANG</td><td>KARET TENGSIN</td><td>22988</td><td>15051.73</td></tr>
+        <tr><td>2024</td><td>KOTA ADM. JAKARTA PUSAT</td><td>TANAH ABANG</td><td>PETAMBURAN</td><td>39138</td><td>44464.75</td></tr>
+        <tr><td>2024</td><td>KOTA ADM. JAKARTA PUSAT</td><td>TANAH ABANG</td><td>KEBON MELATI</td><td>37499</td><td>29663.16</td></tr>
+        <tr><td>2024</td><td>KOTA ADM. JAKARTA PUSAT</td><td>TANAH ABANG</td><td>KEBON KACANG</td><td>25200</td><td>34793.77</td></tr>
+        <tr><td>2024</td><td>KOTA ADM. JAKARTA PUSAT</td><td>TANAH ABANG</td><td>KAMPUNG BALI</td><td>12456</td><td>17158.4</td></tr>
+        <tr><td>2024</td><td>KOTA ADM. JAKARTA PUSAT</td><td>JOHAR BARU</td><td>JOHAR BARU</td><td>42442</td><td>36294.55</td></tr>
+        <tr><td>2024</td><td>KOTA ADM. JAKARTA PUSAT</td><td>JOHAR BARU</td><td>KAMPUNG RAWA</td><td>25315</td><td>83488.75</td></tr>
+        <tr><td>2024</td><td>KOTA ADM. JAKARTA PUSAT</td><td>JOHAR BARU</td><td>GALUR</td><td>21263</td><td>79696.66</td></tr>
+        <tr><td>2025</td><td>KOTA ADM. JAKARTA BARAT</td><td>KEBON JERUK</td><td>KEBON JERUK</td><td>68917</td><td>18694.63</td></tr>
+        <tr><td>2025</td><td>KOTA ADM. JAKARTA BARAT</td><td>KEBON JERUK</td><td>SUKABUMI UTARA</td><td>47964</td><td>30465.13</td></tr>
+        <tr><td>2025</td><td>KOTA ADM. JAKARTA BARAT</td><td>KEBON JERUK</td><td>SUKABUMI SELATAN</td><td>45986</td><td>27437.29</td></tr>
+        <tr><td>2025</td><td>KOTA ADM. JAKARTA BARAT</td><td>KEBON JERUK</td><td>KELAPA DUA</td><td>29146</td><td>20438.7</td></tr>
+        <tr><td>2025</td><td>KOTA ADM. JAKARTA BARAT</td><td>KEBON JERUK</td><td>DURI KEPA</td><td>71496</td><td>19525.52</td></tr>
+        <tr><td>2025</td><td>KOTA ADM. JAKARTA BARAT</td><td>KEBON JERUK</td><td>KEDOYA UTARA</td><td>56232</td><td>17607.27</td></tr>
+        <tr><td>2025</td><td>KOTA ADM. JAKARTA BARAT</td><td>KEBON JERUK</td><td>KEDOYA SELATAN</td><td>39113</td><td>16062.83</td></tr>
+        <tr><td>2025</td><td>KOTA ADM. JAKARTA BARAT</td><td>KALIDERES</td><td>KALIDERES</td><td>91551</td><td>16228.73</td></tr>
+        <tr><td>2025</td><td>KOTA ADM. JAKARTA BARAT</td><td>KALIDERES</td><td>SEMANAN</td><td>92198</td><td>17207.76</td></tr>
+        <tr><td>2025</td><td>KOTA ADM. JAKARTA BARAT</td><td>KALIDERES</td><td>TEGAL ALUR</td><td>105818</td><td>18930.21</td></tr>
+        <tr><td>2025</td><td>KOTA ADM. JAKARTA BARAT</td><td>KALIDERES</td><td>KAMAL</td><td>72071</td><td>14817.9</td></tr>
+        <tr><td>2025</td><td>KOTA ADM. JAKARTA BARAT</td><td>KALIDERES</td><td>PEGADUNGAN</td><td>99751</td><td>13260.12</td></tr>
+        <tr><td>2025</td><td>KOTA ADM. JAKARTA BARAT</td><td>PAL MERAH</td><td>PALMERAH</td><td>75385</td><td>34192.71</td></tr>
+        <tr><td>2025</td><td>KOTA ADM. JAKARTA BARAT</td><td>PAL MERAH</td><td>SLIPI</td><td>19628</td><td>20130.17</td></tr>
+        <tr><td>2025</td><td>KOTA ADM. JAKARTA BARAT</td><td>PAL MERAH</td><td>KOTA BAMBU UTARA</td><td>29713</td><td>44605.14</td></tr>
+        <tr><td>2025</td><td>KOTA ADM. JAKARTA BARAT</td><td>PAL MERAH</td><td>JATIPULO</td><td>33952</td><td>40656.79</td></tr>
+        <tr><td>2025</td><td>KOTA ADM. JAKARTA BARAT</td><td>PAL MERAH</td><td>KEMANGGISAN</td><td>37453</td><td>17825.59</td></tr>
+        <tr><td>2025</td><td>KOTA ADM. JAKARTA BARAT</td><td>PAL MERAH</td><td>KOTA BAMBU SELATAN</td><td>26047</td><td>44568.9</td></tr>
+        <tr><td>2025</td><td>KOTA ADM. JAKARTA BARAT</td><td>KEMBANGAN</td><td>KEMBANGAN UTARA</td><td>69300</td><td>16560.76</td></tr>
+        <tr><td>2025</td><td>KOTA ADM. JAKARTA BARAT</td><td>KEMBANGAN</td><td>MERUYA UTARA</td><td>54759</td><td>13466.87</td></tr>
+        <tr><td>2025</td><td>KOTA ADM. JAKARTA BARAT</td><td>KEMBANGAN</td><td>MERUYA SELATAN</td><td>42172</td><td>13091.12</td></tr>
+        <tr><td>2025</td><td>KOTA ADM. JAKARTA BARAT</td><td>KEMBANGAN</td><td>SRENGSENG</td><td>57402</td><td>12584.68</td></tr>
+        <tr><td>2025</td><td>KOTA ADM. JAKARTA BARAT</td><td>KEMBANGAN</td><td>JOGLO</td><td>51421</td><td>11743.39</td></tr>
+        <tr><td>2025</td><td>KOTA ADM. JAKARTA BARAT</td><td>KEMBANGAN</td><td>KEMBANGAN SELATAN</td><td>33439</td><td>7409.73</td></tr>
+        <tr><td>2025</td><td>KOTA ADM. JAKARTA SELATAN</td><td>TEBET</td><td>TEBET TIMUR</td><td>20460</td><td>15540.74</td></tr>
+        <tr><td>2025</td><td>KOTA ADM. JAKARTA SELATAN</td><td>TEBET</td><td>TEBET BARAT</td><td>23978</td><td>14602.39</td></tr>
+        <tr><td>2025</td><td>KOTA ADM. JAKARTA SELATAN</td><td>TEBET</td><td>MENTENG DALAM</td><td>41718</td><td>17219.77</td></tr>
+        <tr><td>2025</td><td>KOTA ADM. JAKARTA SELATAN</td><td>TEBET</td><td>KEBON BARU</td><td>41098</td><td>32334.91</td></tr>
+        <tr><td>2025</td><td>KOTA ADM. JAKARTA SELATAN</td><td>TEBET</td><td>BUKIT DURI</td><td>39498</td><td>36827.63</td></tr>
+        <tr><td>2025</td><td>KOTA ADM. JAKARTA SELATAN</td><td>TEBET</td><td>MANGGARAI SELATAN</td><td>26488</td><td>47478.98</td></tr>
+        <tr><td>2025</td><td>KOTA ADM. JAKARTA SELATAN</td><td>TEBET</td><td>MANGGARAI</td><td>33203</td><td>31180.62</td></tr>
+        <tr><td>2025</td><td>KOTA ADM. JAKARTA SELATAN</td><td>SETIABUDI</td><td>SETIA BUDI</td><td>3341</td><td>4968.68</td></tr>
+        <tr><td>2025</td><td>KOTA ADM. JAKARTA SELATAN</td><td>SETIABUDI</td><td>KARET SEMANGGI</td><td>3334</td><td>3687.4</td></tr>
+        <tr><td>2025</td><td>KOTA ADM. JAKARTA SELATAN</td><td>SETIABUDI</td><td>KARET KUNINGAN</td><td>19038</td><td>11183.23</td></tr>
+        <tr><td>2025</td><td>KOTA ADM. JAKARTA SELATAN</td><td>SETIABUDI</td><td>KARET</td><td>10798</td><td>10892.36</td></tr>
+        <tr><td>2025</td><td>KOTA ADM. JAKARTA SELATAN</td><td>SETIABUDI</td><td>MENTENG ATAS</td><td>32020</td><td>30674.02</td></tr>
+        <tr><td>2025</td><td>KOTA ADM. JAKARTA SELATAN</td><td>SETIABUDI</td><td>PASAR MANGGIS</td><td>31645</td><td>40666.23</td></tr>
+        <tr><td>2025</td><td>KOTA ADM. JAKARTA SELATAN</td><td>SETIABUDI</td><td>GUNTUR</td><td>4260</td><td>6487.66</td></tr>
+        <tr><td>2025</td><td>KOTA ADM. JAKARTA SELATAN</td><td>SETIABUDI</td><td>KUNINGAN TIMUR</td><td>6844</td><td>3150.29</td></tr>
+        <tr><td>2025</td><td>KOTA ADM. JAKARTA SELATAN</td><td>MAMPANG PRAPATAN</td><td>MAMPANG PRAPATAN</td><td>21306</td><td>26596.86</td></tr>
+        <tr><td>2025</td><td>KOTA ADM. JAKARTA SELATAN</td><td>MAMPANG PRAPATAN</td><td>BANGKA</td><td>24766</td><td>7793.05</td></tr>
+        <tr><td>2025</td><td>KOTA ADM. JAKARTA SELATAN</td><td>MAMPANG PRAPATAN</td><td>PELA MAMPANG</td><td>49878</td><td>25733.12</td></tr>
+        <tr><td>2025</td><td>KOTA ADM. JAKARTA SELATAN</td><td>MAMPANG PRAPATAN</td><td>TEGAL PARANG</td><td>38970</td><td>37180.86</td></tr>
+        <tr><td>2025</td><td>KOTA ADM. JAKARTA SELATAN</td><td>MAMPANG PRAPATAN</td><td>KUNINGAN BARAT</td><td>14507</td><td>14820.29</td></tr>
+        <tr><td>2025</td><td>KOTA ADM. JAKARTA SELATAN</td><td>PASAR MINGGU</td><td>PASAR MINGGU</td><td>29064</td><td>15012.47</td></tr>
+        <tr><td>2025</td><td>KOTA ADM. JAKARTA SELATAN</td><td>PASAR MINGGU</td><td>JATI PADANG</td><td>43714</td><td>18240.08</td></tr>
+        <tr><td>2025</td><td>KOTA ADM. JAKARTA SELATAN</td><td>PASAR MINGGU</td><td>CILANDAK TIMUR</td><td>29220</td><td>7622.81</td></tr>
+        <tr><td>2025</td><td>KOTA ADM. JAKARTA SELATAN</td><td>PASAR MINGGU</td><td>RAGUNAN</td><td>47097</td><td>9868.6</td></tr>
+        <tr><td>2025</td><td>KOTA ADM. JAKARTA SELATAN</td><td>PASAR MINGGU</td><td>PEJATEN TIMUR</td><td>70479</td><td>24011.65</td></tr>
+        <tr><td>2025</td><td>KOTA ADM. JAKARTA SELATAN</td><td>PASAR MINGGU</td><td>PEJATEN BARAT</td><td>43941</td><td>14850</td></tr>
+        <tr><td>2025</td><td>KOTA ADM. JAKARTA SELATAN</td><td>PASAR MINGGU</td><td>KEBAGUSAN</td><td>56485</td><td>20299.14</td></tr>
+        <tr><td>2025</td><td>KOTA ADM. JAKARTA SELATAN</td><td>KEBAYORAN LAMA</td><td>KEBAYORAN LAMA UTARA</td><td>50293</td><td>21712.18</td></tr>
+        <tr><td>2025</td><td>KOTA ADM. JAKARTA SELATAN</td><td>KEBAYORAN LAMA</td><td>PONDOK PINANG</td><td>67628</td><td>9961.03</td></tr>
+        <tr><td>2025</td><td>KOTA ADM. JAKARTA SELATAN</td><td>KEBAYORAN LAMA</td><td>CIPULIR</td><td>48479</td><td>28805.28</td></tr>
+        <tr><td>2025</td><td>KOTA ADM. JAKARTA SELATAN</td><td>KEBAYORAN LAMA</td><td>GROGOL UTARA</td><td>49406</td><td>14960.63</td></tr>
+        <tr><td>2025</td><td>KOTA ADM. JAKARTA SELATAN</td><td>KEBAYORAN LAMA</td><td>GROGOL SELATAN</td><td>52837</td><td>18329.44</td></tr>
+        <tr><td>2025</td><td>KOTA ADM. JAKARTA SELATAN</td><td>KEBAYORAN LAMA</td><td>KEBAYORAN LAMA SELATAN</td><td>48083</td><td>23088.74</td></tr>
+        <tr><td>2025</td><td>KOTA ADM. JAKARTA SELATAN</td><td>CILANDAK</td><td>CILANDAK BARAT</td><td>59064</td><td>10014.85</td></tr>
+        <tr><td>2025</td><td>KOTA ADM. JAKARTA SELATAN</td><td>CILANDAK</td><td>LEBAK BULUS</td><td>46189</td><td>10566.71</td></tr>
+        <tr><td>2025</td><td>KOTA ADM. JAKARTA SELATAN</td><td>CILANDAK</td><td>PONDOK LABU</td><td>55987</td><td>16032.38</td></tr>
+        <tr><td>2025</td><td>KAB. ADM. KEP. SERIBU</td><td>KEPULAUAN SERIBU UTARA</td><td>PULAU PANGGANG</td><td>7251</td><td>7356.19</td></tr>
+        <tr><td>2025</td><td>KOTA ADM. JAKARTA SELATAN</td><td>CILANDAK</td><td>GANDARIA SELATAN</td><td>25863</td><td>16174.28</td></tr>
+        <tr><td>2025</td><td>KOTA ADM. JAKARTA SELATAN</td><td>CILANDAK</td><td>CIPETE SELATAN</td><td>30939</td><td>12966.4</td></tr>
+        <tr><td>2025</td><td>KOTA ADM. JAKARTA SELATAN</td><td>KEBAYORAN BARU</td><td>MELAWAI</td><td>2729</td><td>2129.59</td></tr>
+        <tr><td>2025</td><td>KOTA ADM. JAKARTA SELATAN</td><td>KEBAYORAN BARU</td><td>GUNUNG</td><td>10090</td><td>7103.58</td></tr>
+        <tr><td>2025</td><td>KOTA ADM. JAKARTA SELATAN</td><td>KEBAYORAN BARU</td><td>KRAMAT PELA</td><td>16345</td><td>13073.18</td></tr>
+        <tr><td>2025</td><td>KOTA ADM. JAKARTA SELATAN</td><td>KEBAYORAN BARU</td><td>SELONG</td><td>2921</td><td>2036.66</td></tr>
+        <tr><td>2025</td><td>KOTA ADM. JAKARTA SELATAN</td><td>KEBAYORAN BARU</td><td>RAWA BARAT</td><td>6298</td><td>9671.63</td></tr>
+        <tr><td>2025</td><td>KOTA ADM. JAKARTA SELATAN</td><td>KEBAYORAN BARU</td><td>SENAYAN</td><td>2894</td><td>2026.06</td></tr>
+        <tr><td>2025</td><td>KOTA ADM. JAKARTA SELATAN</td><td>KEBAYORAN BARU</td><td>PULO</td><td>6219</td><td>5640.92</td></tr>
+        <tr><td>2025</td><td>KOTA ADM. JAKARTA SELATAN</td><td>KEBAYORAN BARU</td><td>PETOGOGAN</td><td>12874</td><td>15103.45</td></tr>
+        <tr><td>2025</td><td>KOTA ADM. JAKARTA SELATAN</td><td>KEBAYORAN BARU</td><td>GANDARIA UTARA</td><td>46658</td><td>29700.88</td></tr>
+        <tr><td>2025</td><td>KOTA ADM. JAKARTA SELATAN</td><td>KEBAYORAN BARU</td><td>CIPETE UTARA</td><td>37907</td><td>22313.46</td></tr>
+        <tr><td>2025</td><td>KOTA ADM. JAKARTA SELATAN</td><td>PANCORAN</td><td>PANCORAN</td><td>23893</td><td>17073.75</td></tr>
+        <tr><td>2025</td><td>KOTA ADM. JAKARTA SELATAN</td><td>PANCORAN</td><td>KALIBATA</td><td>50587</td><td>21495.65</td></tr>
+        <tr><td>2025</td><td>KOTA ADM. JAKARTA SELATAN</td><td>PANCORAN</td><td>RAWAJATI</td><td>25808</td><td>17471.13</td></tr>
+        <tr><td>2025</td><td>KOTA ADM. JAKARTA SELATAN</td><td>PANCORAN</td><td>DUREN TIGA</td><td>32542</td><td>16270.11</td></tr>
+        <tr><td>2025</td><td>KOTA ADM. JAKARTA SELATAN</td><td>PANCORAN</td><td>PENGADEGAN</td><td>26047</td><td>26808.19</td></tr>
+        <tr><td>2025</td><td>KOTA ADM. JAKARTA SELATAN</td><td>PANCORAN</td><td>CIKOKO</td><td>12077</td><td>18105.9</td></tr>
+        <tr><td>2025</td><td>KOTA ADM. JAKARTA SELATAN</td><td>JAGAKARSA</td><td>JAGAKARSA</td><td>82135</td><td>16172.25</td></tr>
+        <tr><td>2025</td><td>KOTA ADM. JAKARTA SELATAN</td><td>JAGAKARSA</td><td>SRENGSENG SAWAH</td><td>74275</td><td>13329.64</td></tr>
+        <tr><td>2025</td><td>KOTA ADM. JAKARTA SELATAN</td><td>JAGAKARSA</td><td>CIGANJUR</td><td>51218</td><td>14064.77</td></tr>
+        <tr><td>2025</td><td>KOTA ADM. JAKARTA SELATAN</td><td>JAGAKARSA</td><td>LENTENG AGUNG</td><td>67020</td><td>21259.25</td></tr>
+        <tr><td>2025</td><td>KOTA ADM. JAKARTA SELATAN</td><td>JAGAKARSA</td><td>TANJUNG BARAT</td><td>50714</td><td>14176.38</td></tr>
+        <tr><td>2025</td><td>KOTA ADM. JAKARTA SELATAN</td><td>JAGAKARSA</td><td>CIPEDAK</td><td>52333</td><td>12947.5</td></tr>
+        <tr><td>2025</td><td>KOTA ADM. JAKARTA SELATAN</td><td>PESANGGRAHAN</td><td>PESANGGRAHAN</td><td>33938</td><td>17535.57</td></tr>
+        <tr><td>2025</td><td>KOTA ADM. JAKARTA SELATAN</td><td>PESANGGRAHAN</td><td>BINTARO</td><td>65029</td><td>14224.12</td></tr>
+        <tr><td>2025</td><td>KOTA ADM. JAKARTA SELATAN</td><td>PESANGGRAHAN</td><td>PETUKANGAN UTARA</td><td>67755</td><td>24140.79</td></tr>
+        <tr><td>2025</td><td>KOTA ADM. JAKARTA SELATAN</td><td>PESANGGRAHAN</td><td>PETUKANGAN SELATAN</td><td>44236</td><td>20733.91</td></tr>
+        <tr><td>2025</td><td>KOTA ADM. JAKARTA SELATAN</td><td>PESANGGRAHAN</td><td>ULUJAMI</td><td>50605</td><td>24748.75</td></tr>
+        <tr><td>2025</td><td>KOTA ADM. JAKARTA TIMUR</td><td>MATRAMAN</td><td>PISANGAN BARU</td><td>37400</td><td>51828.84</td></tr>
+        <tr><td>2025</td><td>KOTA ADM. JAKARTA TIMUR</td><td>MATRAMAN</td><td>UTAN KAYU UTARA</td><td>32588</td><td>32746.62</td></tr>
+        <tr><td>2025</td><td>KOTA ADM. JAKARTA TIMUR</td><td>MATRAMAN</td><td>KAYU MANIS</td><td>29256</td><td>53581.24</td></tr>
+        <tr><td>2025</td><td>KOTA ADM. JAKARTA TIMUR</td><td>MATRAMAN</td><td>PALMERIAM</td><td>22386</td><td>34447.37</td></tr>
+        <tr><td>2025</td><td>KOTA ADM. JAKARTA TIMUR</td><td>MATRAMAN</td><td>KEBON MANGGIS</td><td>18609</td><td>23870.27</td></tr>
+        <tr><td>2025</td><td>KOTA ADM. JAKARTA TIMUR</td><td>MATRAMAN</td><td>UTAN KAYU SELATAN</td><td>39411</td><td>33818.44</td></tr>
+        <tr><td>2025</td><td>KOTA ADM. JAKARTA TIMUR</td><td>PULOGADUNG</td><td>PULO GADUNG</td><td>40536</td><td>22951.88</td></tr>
+        <tr><td>2025</td><td>KOTA ADM. JAKARTA TIMUR</td><td>PULOGADUNG</td><td>PISANGAN TIMUR</td><td>48251</td><td>26753.64</td></tr>
+        <tr><td>2025</td><td>KOTA ADM. JAKARTA TIMUR</td><td>PULOGADUNG</td><td>CIPINANG</td><td>45392</td><td>30255.28</td></tr>
+        <tr><td>2025</td><td>KOTA ADM. JAKARTA TIMUR</td><td>PULOGADUNG</td><td>JATINEGARA KAUM</td><td>28968</td><td>22362.2</td></tr>
+        <tr><td>2025</td><td>KOTA ADM. JAKARTA TIMUR</td><td>PULOGADUNG</td><td>RAWAMANGUN</td><td>43325</td><td>16484.29</td></tr>
+        <tr><td>2025</td><td>KOTA ADM. JAKARTA TIMUR</td><td>PULOGADUNG</td><td>KAYU PUTIH</td><td>47835</td><td>12460.67</td></tr>
+        <tr><td>2025</td><td>KOTA ADM. JAKARTA TIMUR</td><td>PULOGADUNG</td><td>JATI</td><td>38062</td><td>18365.97</td></tr>
+        <tr><td>2025</td><td>KOTA ADM. JAKARTA TIMUR</td><td>JATINEGARA</td><td>KAMPUNG MELAYU</td><td>31374</td><td>65135.48</td></tr>
+        <tr><td>2025</td><td>KOTA ADM. JAKARTA TIMUR</td><td>JATINEGARA</td><td>BIDARA CINA</td><td>42299</td><td>34011.43</td></tr>
+        <tr><td>2025</td><td>KOTA ADM. JAKARTA TIMUR</td><td>JATINEGARA</td><td>BALI MESTER</td><td>10712</td><td>15927.49</td></tr>
+        <tr><td>2025</td><td>KOTA ADM. JAKARTA TIMUR</td><td>JATINEGARA</td><td>RAWA BUNGA</td><td>25545</td><td>30291.53</td></tr>
+        <tr><td>2025</td><td>KOTA ADM. JAKARTA TIMUR</td><td>JATINEGARA</td><td>CIPINANG CEMPEDAK</td><td>37683</td><td>23496.66</td></tr>
+        <tr><td>2025</td><td>KOTA ADM. JAKARTA TIMUR</td><td>JATINEGARA</td><td>CIPINANG MUARA</td><td>66511</td><td>24931.4</td></tr>
+        <tr><td>2025</td><td>KOTA ADM. JAKARTA TIMUR</td><td>JATINEGARA</td><td>CIPINANG BESAR SELATAN</td><td>43854</td><td>25772.06</td></tr>
+        <tr><td>2025</td><td>KOTA ADM. JAKARTA TIMUR</td><td>JATINEGARA</td><td>CIPINANG BESAR UTARA</td><td>56036</td><td>49532.4</td></tr>
+        <tr><td>2025</td><td>KOTA ADM. JAKARTA TIMUR</td><td>KRAMATJATI</td><td>KRAMATJATI</td><td>40492</td><td>26727.57</td></tr>
+        <tr><td>2025</td><td>KOTA ADM. JAKARTA TIMUR</td><td>KRAMATJATI</td><td>TENGAH</td><td>56311</td><td>28899.07</td></tr>
+        <tr><td>2025</td><td>KOTA ADM. JAKARTA TIMUR</td><td>KRAMATJATI</td><td>DUKUH</td><td>30853</td><td>17886.21</td></tr>
+        <tr><td>2025</td><td>KOTA ADM. JAKARTA TIMUR</td><td>KRAMATJATI</td><td>BATU AMPAR</td><td>61033</td><td>24051.47</td></tr>
+        <tr><td>2025</td><td>KOTA ADM. JAKARTA TIMUR</td><td>KRAMATJATI</td><td>BALEKAMBANG</td><td>37701</td><td>22322.95</td></tr>
+        <tr><td>2025</td><td>KOTA ADM. JAKARTA TIMUR</td><td>KRAMATJATI</td><td>CILILITAN</td><td>49602</td><td>28023.89</td></tr>
+        <tr><td>2025</td><td>KOTA ADM. JAKARTA TIMUR</td><td>KRAMATJATI</td><td>CAWANG</td><td>37876</td><td>20079.63</td></tr>
+        <tr><td>2025</td><td>KOTA ADM. JAKARTA TIMUR</td><td>PASAR REBO</td><td>GEDONG</td><td>43533</td><td>17759.58</td></tr>
+        <tr><td>2025</td><td>KOTA ADM. JAKARTA TIMUR</td><td>PASAR REBO</td><td>BARU</td><td>29786</td><td>14317.78</td></tr>
+        <tr><td>2025</td><td>KOTA ADM. JAKARTA TIMUR</td><td>PASAR REBO</td><td>CIJANTUNG</td><td>50845</td><td>21088.06</td></tr>
+        <tr><td>2025</td><td>KOTA ADM. JAKARTA TIMUR</td><td>PASAR REBO</td><td>KALISARI</td><td>55185</td><td>21532.92</td></tr>
+        <tr><td>2025</td><td>KOTA ADM. JAKARTA TIMUR</td><td>PASAR REBO</td><td>PEKAYON</td><td>54537</td><td>18382.62</td></tr>
+        <tr><td>2025</td><td>KOTA ADM. JAKARTA TIMUR</td><td>CAKUNG</td><td>JATINEGARA</td><td>101552</td><td>15581.53</td></tr>
+        <tr><td>2025</td><td>KOTA ADM. JAKARTA TIMUR</td><td>CAKUNG</td><td>RAWA TERATE</td><td>28421</td><td>6900.95</td></tr>
+        <tr><td>2025</td><td>KOTA ADM. JAKARTA TIMUR</td><td>CAKUNG</td><td>PENGGILINGAN</td><td>129373</td><td>29303.92</td></tr>
+        <tr><td>2025</td><td>KOTA ADM. JAKARTA TIMUR</td><td>CAKUNG</td><td>CAKUNG TIMUR</td><td>77183</td><td>8511.61</td></tr>
+        <tr><td>2025</td><td>KOTA ADM. JAKARTA TIMUR</td><td>CAKUNG</td><td>PULO GEBANG</td><td>127467</td><td>19232.9</td></tr>
+        <tr><td>2025</td><td>KOTA ADM. JAKARTA TIMUR</td><td>CAKUNG</td><td>UJUNG MENTENG</td><td>39047</td><td>8919.65</td></tr>
+        <tr><td>2025</td><td>KOTA ADM. JAKARTA TIMUR</td><td>CAKUNG</td><td>CAKUNG BARAT</td><td>72257</td><td>11768.64</td></tr>
+        <tr><td>2025</td><td>KOTA ADM. JAKARTA TIMUR</td><td>DUREN SAWIT</td><td>DUREN SAWIT</td><td>75853</td><td>16313.95</td></tr>
+        <tr><td>2025</td><td>KOTA ADM. JAKARTA TIMUR</td><td>DUREN SAWIT</td><td>PONDOK BAMBU</td><td>74581</td><td>18347.38</td></tr>
+        <tr><td>2025</td><td>KOTA ADM. JAKARTA TIMUR</td><td>DUREN SAWIT</td><td>KLENDER</td><td>85957</td><td>28545.57</td></tr>
+        <tr><td>2025</td><td>KOTA ADM. JAKARTA TIMUR</td><td>DUREN SAWIT</td><td>PONDOK KELAPA</td><td>92109</td><td>16106.6</td></tr>
+        <tr><td>2025</td><td>KOTA ADM. JAKARTA TIMUR</td><td>DUREN SAWIT</td><td>MALAKA SARI</td><td>31466</td><td>23856.67</td></tr>
+        <tr><td>2025</td><td>KOTA ADM. JAKARTA TIMUR</td><td>DUREN SAWIT</td><td>MALAKA JAYA</td><td>34566</td><td>32883.05</td></tr>
+        <tr><td>2025</td><td>KOTA ADM. JAKARTA TIMUR</td><td>DUREN SAWIT</td><td>PONDOK KOPI</td><td>44126</td><td>19543.54</td></tr>
+        <tr><td>2025</td><td>KOTA ADM. JAKARTA TIMUR</td><td>MAKASAR</td><td>MAKASAR</td><td>41829</td><td>28665.9</td></tr>
+        <tr><td>2025</td><td>KOTA ADM. JAKARTA TIMUR</td><td>MAKASAR</td><td>PINANGRANTI</td><td>35260</td><td>15391.67</td></tr>
+        <tr><td>2025</td><td>KOTA ADM. JAKARTA TIMUR</td><td>MAKASAR</td><td>KEBON PALA</td><td>56331</td><td>24604.71</td></tr>
+        <tr><td>2025</td><td>KOTA ADM. JAKARTA TIMUR</td><td>MAKASAR</td><td>HALIM PERDANA KUSUMA</td><td>33374</td><td>2578.76</td></tr>
+        <tr><td>2025</td><td>KOTA ADM. JAKARTA TIMUR</td><td>MAKASAR</td><td>CIPINANG MELAYU</td><td>51488</td><td>20285.64</td></tr>
+        <tr><td>2025</td><td>KOTA ADM. JAKARTA TIMUR</td><td>CIRACAS</td><td>CIRACAS</td><td>80786</td><td>19986.99</td></tr>
+        <tr><td>2025</td><td>KOTA ADM. JAKARTA TIMUR</td><td>CIRACAS</td><td>CIBUBUR</td><td>83850</td><td>16959.09</td></tr>
+        <tr><td>2025</td><td>KOTA ADM. JAKARTA TIMUR</td><td>CIRACAS</td><td>KELAPA DUA WETAN</td><td>59708</td><td>17752.12</td></tr>
+        <tr><td>2025</td><td>KOTA ADM. JAKARTA TIMUR</td><td>CIRACAS</td><td>SUSUKAN</td><td>46463</td><td>21316.82</td></tr>
+        <tr><td>2025</td><td>KOTA ADM. JAKARTA TIMUR</td><td>CIRACAS</td><td>RAMBUTAN</td><td>46342</td><td>20009.67</td></tr>
+        <tr><td>2025</td><td>KOTA ADM. JAKARTA TIMUR</td><td>CIPAYUNG</td><td>CIPAYUNG</td><td>33819</td><td>13680.27</td></tr>
+        <tr><td>2025</td><td>KOTA ADM. JAKARTA TIMUR</td><td>CIPAYUNG</td><td>CILANGKAP</td><td>36996</td><td>6626.12</td></tr>
+        <tr><td>2025</td><td>KOTA ADM. JAKARTA TIMUR</td><td>CIPAYUNG</td><td>PONDOK RANGGON</td><td>35195</td><td>7456.49</td></tr>
+        <tr><td>2025</td><td>KOTA ADM. JAKARTA TIMUR</td><td>CIPAYUNG</td><td>MUNJUL</td><td>31711</td><td>15491.07</td></tr>
+        <tr><td>2025</td><td>KOTA ADM. JAKARTA TIMUR</td><td>CIPAYUNG</td><td>SETU</td><td>27503</td><td>9693.3</td></tr>
+        <tr><td>2025</td><td>KOTA ADM. JAKARTA TIMUR</td><td>CIPAYUNG</td><td>BAMBU APUS</td><td>33955</td><td>9619.44</td></tr>
+        <tr><td>2025</td><td>KOTA ADM. JAKARTA TIMUR</td><td>CIPAYUNG</td><td>LUBANG BUAYA</td><td>82176</td><td>22778.07</td></tr>
+        <tr><td>2025</td><td>KOTA ADM. JAKARTA TIMUR</td><td>CIPAYUNG</td><td>CEGER</td><td>23560</td><td>8064.3</td></tr>
+      </tbody>
+    </table>
+  
+  </body>
+</html >

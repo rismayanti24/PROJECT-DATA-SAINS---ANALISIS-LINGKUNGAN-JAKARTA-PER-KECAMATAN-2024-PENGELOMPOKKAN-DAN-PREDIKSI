@@ -1,0 +1,30 @@
+Perbandingan model (cross-validation 5-fold x 20 ulangan, metrik dari prediksi out-of-fold):
+                                  model  jumlah_fitur     MAE    RMSE     R2
+             Baseline (tebak rata-rata)             1 383.948 528.178 -0.055
+               Linear berganda: 4 fitur             4 306.036 466.173  0.176
+Linear berganda: 4 fitur, target di-log             4 281.835 465.264  0.180
+     Linear berganda: penduduk + IP air             2 272.790 430.656  0.298
+        Linear sederhana: penduduk saja             1 270.207 414.275  0.351
+
+Model terpilih: Linear sederhana: penduduk saja (fitur: Jumlah penduduk)
+
+Koefisien model 4 fitur (terstandar = perubahan volume sampah, m3, bila fitur naik 1 simpangan baku):
+          fitur  koefisien_terstandar
+Jumlah penduduk                318.16
+      Kepadatan                -16.16
+ RTH per kapita                 45.60
+   IP air sumur                 60.84
+
+Persamaan model terpilih (nilai asli): volume_sampah = 238.2 + 0.002630 x jumlah_penduduk
+
+R2 pada seluruh data (in-sample, hanya pembanding): 0.409
+
+Selisih terbesar (aktual - prediksi):
+                  wilayah    kecamatan  aktual  prediksi_cv  selisih
+KOTA ADM. JAKARTA SELATAN    JAGAKARSA  2879.1       1173.5   1705.6
+  KOTA ADM. JAKARTA UTARA  PENJARINGAN  2091.0       1061.7   1029.3
+  KOTA ADM. JAKARTA TIMUR     CIPAYUNG   356.9       1109.5   -752.6
+  KOTA ADM. JAKARTA TIMUR      CIRACAS   510.1       1149.6   -639.5
+KOTA ADM. JAKARTA SELATAN PASAR MINGGU   546.4       1126.4   -580.0
+
+Uji kepekaan tanpa Jagakarsa, Penjaringan, Cengkareng: R2=0.377, MAE=205.8

@@ -1,0 +1,74 @@
+Oke, ini tanpa tabel, siap di-copy. Instansi air sumur sudah saya tulis Dinas Lingkungan Hidup.
+
+*METADATA DATASET*
+
+*1. Volume Sampah Sungai*
+Nama dataset: Rata-rata Volume Sampah Sungai di DKI Jakarta menurut Kota Administrasi
+Instansi: Dinas Lingkungan Hidup
+Portal: Satu Data Jakarta
+Tahun data: Januari 2024 sampai Juli 2026 (bulanan), dipakai 2024
+Jumlah baris: 1.302 (2024: 504)
+Jumlah variabel: 6
+Format: .xls (isi tabel HTML)
+Satuan: meter kubik
+Pemutakhiran: 1 bulan sekali
+Metadata dibuat: 4 Februari 2025
+Metadata diperbarui: 12 Oktober 2026
+Sifat data: Terbuka
+Kontak: dinaslh@jakarta.go.id
+URL: https://satudata.jakarta.go.id/open-data/detail?kategori=dataset&page_url=rata-rata-volume-sampah-sungai-di-dki-jakarta-menurut-kota-administrasi&data_no=1
+
+*2. Kepadatan Penduduk*
+Nama dataset: Data Kepadatan Penduduk Provinsi DKI Jakarta
+Instansi: Kementerian Dalam Negeri, Dinas Kependudukan dan Pencatatan Sipil
+Portal: Satu Data Jakarta
+Tahun data: 2024 dan 2025, dipakai 2024
+Jumlah baris: 534 (2024: 267)
+Jumlah variabel: 6
+Format: .xls (isi tabel HTML)
+Satuan: orang per kilometer persegi
+Pemutakhiran: 1 tahun sekali
+Metadata dibuat: 14 Februari 2025
+Metadata diperbarui: 3 September 2026
+Sifat data: Terbuka
+Kontak: bdi.dukcapil@jakarta.go.id
+URL: https://satudata.jakarta.go.id/open-data/detail?kategori=dataset&page_url=data-kepadatan-penduduk-provinsi-dki-jakarta&data_no=1
+
+*3. Ruang Terbuka Hijau (RTH) Publik*
+Nama dataset: Data Luas Ruang Terbuka Hijau (RTH) Publik
+Instansi: Dinas Pertamanan dan Hutan Kota
+Portal: Satu Data Jakarta
+Tahun data: 2022 sampai 2025, dipakai 2024
+Jumlah baris: 10.565 (2024: 2.545)
+Jumlah variabel: 8
+Format: .xls (isi tabel HTML)
+Satuan: tidak dicantumkan
+Pemutakhiran: 1 tahun sekali
+Metadata dibuat: 29 Desember 2023
+Metadata diperbarui: 18 Mei 2026
+File data diperbarui: 4 Mei 2026
+Sifat data: Terbuka
+Kontak: distama@jakarta.go.id
+URL: https://satudata.jakarta.go.id/open-data/detail?kategori=dataset&page_url=data-luas-ruang-terbuka-hijau-rth-publik&data_no=1
+
+*4. Kualitas Air Sumur*
+Nama dataset: Data Kualitas Air Sumur
+Instansi: Dinas Lingkungan Hidup
+Portal: Satu Data Jakarta
+Tahun data: 2024 dan 2025, dipakai 2024
+Jumlah baris: 16.740 (2024: 12.420)
+Jumlah variabel: 10
+Format: .xls (isi tabel HTML)
+Satuan: tidak dicantumkan
+Pemutakhiran: 1 tahun sekali
+Metadata dibuat: 9 April 2025
+Metadata diperbarui: 17 April 2026
+File data diperbarui: 17 April 2026
+Sifat data: Terbuka
+Kontak: dinaslh@jakarta.go.id
+URL: https://satudata.jakarta.go.id/open-data/detail?kategori=dataset&page_url=data-kualitas-air-sumur&data_no=1
+
+*Catatan:*
+• Judul dataset sampah menyebut "menurut kota administrasi", tapi isi filenya per kecamatan.
+• Satuan kolom `total_sampah_residu` dan `rata_rata` pada data sampah tidak disebut di metadata.
+• Satuan RTH dan air sumur tidak dicantumkan di portal, tulis sebagai keterbatasan.

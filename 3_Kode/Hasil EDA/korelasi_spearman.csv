@@ -1,0 +1,6 @@
+,Volume sampah,Penduduk,Kepadatan,RTH per kapita,IP air sumur
+Volume sampah,1.0,0.59,-0.008,-0.107,0.307
+Penduduk,0.59,1.0,-0.036,0.084,0.104
+Kepadatan,-0.008,-0.036,1.0,-0.601,-0.091
+RTH per kapita,-0.107,0.084,-0.601,1.0,-0.225
+IP air sumur,0.307,0.104,-0.091,-0.225,1.0

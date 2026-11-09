@@ -1,0 +1,24 @@
+Statistik deskriptif (42 kecamatan)
+                count       mean        std       min        25%        50%        75%        max
+Volume sampah    42.0     927.39     520.59    356.92     594.44     746.09    1068.82    2879.07
+Penduduk         42.0  262092.43  126548.77  85016.00  155622.50  241592.50  324027.00  582327.00
+Kepadatan        42.0   20541.51   10076.64   8096.99   12795.70   19115.47   23869.14   56702.06
+RTH per kapita   42.0       2.35       2.86      0.13       0.52       1.03       2.79      11.58
+IP air sumur     42.0       7.62       1.88      4.84       6.42       7.24       8.67      13.26
+
+Korelasi Spearman dengan volume sampah
+Penduduk          0.590
+IP air sumur      0.307
+Kepadatan        -0.008
+RTH per kapita   -0.107
+
+Bulan sampah tertinggi: 11 (43,583 m3); terendah: 3 (34,891 m3)
+Top 5 kecamatan sampah: Jagakarsa, Penjaringan, Cengkareng, Cakung, Kebon Jeruk
+Top 5 RTH per kapita: Setiabudi, Tebet, Pancoran, Jagakarsa, Penjaringan
+Terendah RTH per kapita: Tambora, Taman Sari, Mampang Prapatan, Matraman, Koja
+Status mutu air dominan:
+status_mutu_dominan
+SEDANG    24
+BERAT     13
+RINGAN     3
+BAIK       2

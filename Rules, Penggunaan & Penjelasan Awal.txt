@@ -1,0 +1,60 @@
+PROJECT DATA SAINS - ANALISIS LINGKUNGAN JAKARTA PER KECAMATAN (2024)
+
+TUJUAN
+Menganalisis kondisi lingkungan 42 kecamatan di DKI Jakarta tahun 2024
+dari 4 dataset Satu Data Jakarta: volume sampah, kepadatan penduduk,
+RTH publik, dan kualitas air sumur. Metode: PCA + K-Means (pengelompokan
+kecamatan) dan Regresi Linear (prediksi volume sampah).
+
+ISI FOLDER
+1_data_mentah  : 4 file asli dari portal (jangan diubah)
+2_data_bersih  : hasil pembersihan dan normalisasi (CSV dan Excel)
+3_kode         : skrip Python dan requirements.txt dan Hasil EDA
+4_dokumen      : aturan project dan catatan metadata dataset
+
+FILE PALING PENTING
+Data_Bersih_Proyek_Lingkungan_2024.xlsx (di 2_data_bersih)
+Isinya semua sheet: Ringkasan, Metadata, Catatan_Cleaning, Data_Final_2024,
+Normalisasi_2024, dan data per dataset. Cukup buka ini untuk melihat datanya.
+
+CARA MENJALANKAN ULANG (Windows, urutan harus sesuai)
+1. Pasang Python, lalu buka Command Prompt di folder 3_kode.
+2. Pasang library:
+   pip install -r requirements.txt
+3. Buka clean_data.py, di bagian FILES samakan nama file dengan nama
+   file mentah di 1_data_mentah.
+4. Jalankan berurutan:
+   python clean_data.py ../1_data_mentah ../2_data_bersih
+   python normalize_data.py ../2_data_bersih
+   python eda.py ../2_data_bersih
+   python build_excel.py ../2_data_bersih
+
+PENJELASAN TIAP SKRIP
+clean_data.py     : membersihkan 4 dataset (hanya tahun 2024), menggabungkan
+                    per kecamatan, menghasilkan data_final_2024.csv dan
+                    catatan_cleaning.csv.
+normalize_data.py : log(1+x) untuk variabel yang miring, lalu Z-score.
+                    Menghasilkan data_normalisasi_2024.csv dan grafik
+                    sebelum/sesudah.
+eda.py            : membuat 5 grafik dan korelasi di folder eda
+                    (di dalam 2_data_bersih; boleh dipindah ke 4_hasil_eda).
+build_excel.py    : menyusun semua hasil menjadi satu file Excel rapi.
+
+DATA YANG DIPAKAI (semua tahun 2024)
+1. Rata-rata Volume Sampah Sungai di DKI Jakarta menurut Kota Administrasi
+   (Dinas Lingkungan Hidup, diperbarui tiap 1 bulan)
+2. Data Kepadatan Penduduk Provinsi DKI Jakarta
+3. Data Luas Ruang Terbuka Hijau (RTH) Publik
+4. Data Kualitas Air Sumur
+Sumber: https://satudata.jakarta.go.id
+Catatan: kunci gabung antar dataset = wilayah + kecamatan.
+
+STATUS PEKERJAAN
+[x] Pengumpulan data
+[x] Cleaning
+[x] Normalisasi
+[x] EDA
+[ ] Model PCA + K-Means
+[ ] Model Regresi Linear
+[ ] Aplikasi Streamlit
+[ ] Laporan (BAB 1-7)

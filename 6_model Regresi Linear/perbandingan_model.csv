@@ -1,0 +1,6 @@
+model,jumlah_fitur,MAE,RMSE,R2
+Baseline (tebak rata-rata),1,383.948,528.178,-0.055
+Linear berganda: 4 fitur,4,306.036,466.173,0.176
+"Linear berganda: 4 fitur, target di-log",4,281.835,465.264,0.18
+Linear berganda: penduduk + IP air,2,272.79,430.656,0.298
+Linear sederhana: penduduk saja,1,270.207,414.275,0.351

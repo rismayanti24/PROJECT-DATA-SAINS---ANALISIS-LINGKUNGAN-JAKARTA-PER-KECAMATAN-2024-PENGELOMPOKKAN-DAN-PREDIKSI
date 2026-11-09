@@ -1,0 +1,24 @@
+dataset,masalah,jumlah_terdampak,tindakan,alasan
+Sampah,Data mencakup Jan 2024 - Jul 2026 (1302 baris),798,Diambil periode 202401-202412 saja,Tahun disamakan dengan dataset lain (2024)
+Sampah,Ejaan nama kecamatan berbeda antar file (contoh KRAMATJATI vs KRAMAT JATI),48,Disamakan ke ejaan baku dari data kepadatan,Supaya kunci gabung wilayah + kecamatan cocok
+Sampah,"Outlier: KRAMATJATI periode 202402, volume 28741 padahal residu 717 (rasio 40.1x)",1,Nilai volume diganti median volume kecamatan itu pada bulan lain,"Rasio volume/residu normalnya 1-3x, rasio >5x kemungkinan salah input"
+Sampah,"Outlier: JATINEGARA periode 202405, volume 5527 padahal residu 686 (rasio 8.1x)",1,Nilai volume diganti median volume kecamatan itu pada bulan lain,"Rasio volume/residu normalnya 1-3x, rasio >5x kemungkinan salah input"
+Sampah,Data bulanan per kecamatan (12 bulan),504,Dirata-ratakan per kecamatan jadi volume_sampah_rata2 (meter kubik),Satuan analisis adalah kecamatan
+Kepadatan,Data memuat 2024 dan 2025 (534 baris),267,Diambil 2024 saja (267 kelurahan),Tahun disamakan dengan dataset lain
+Kepadatan,Kepadatan per kelurahan tidak boleh dirata-ratakan biasa,267,"Luas kelurahan dihitung = penduduk / kepadatan, dijumlahkan per kecamatan, kepadatan kecamatan = total penduduk / total luas",Rata-rata biasa akan salah karena luas tiap kelurahan berbeda
+RTH,Data mencakup 2022-2025 (10565 baris),8020,Diambil 2024 saja,Tahun disamakan dengan dataset lain
+RTH,Kolom luas terbaca sebagai teks,2545,Diubah ke angka (to_numeric),Supaya bisa dijumlahkan
+RTH,Ejaan nama kecamatan berbeda antar file (contoh KRAMATJATI vs KRAMAT JATI),268,Disamakan ke ejaan baku dari data kepadatan,Supaya kunci gabung wilayah + kecamatan cocok
+RTH,Kecamatan tercatat di wilayah (kota) yang salah,1,Wilayah diperbaiki sesuai kecamatan sebenarnya,"Kecamatan hanya ada di satu kota, jadi wilayah yang benar bisa dipastikan"
+RTH,"Baris dobel (kecamatan, nama, alamat, luas sama)",2,Baris dobel dihapus,Satu RTH tercatat dua kali akan menggandakan luas
+RTH,Kolom kelurahan kosong di banyak baris,483,"Analisis dilakukan di level kecamatan, kelurahan tidak dipakai","Kecamatan terisi lengkap, kelurahan tidak"
+Air sumur,Data memuat 2024 dan 2025 (16740 baris); 2025 hanya 8 parameter tanpa IP/STATUS,4320,Diambil 2024 saja,Hanya 2024 yang punya Indeks Pencemaran (IP) dan STATUS
+Air sumur,Ejaan nama kecamatan berbeda antar file (contoh KRAMATJATI vs KRAMAT JATI),644,Disamakan ke ejaan baku dari data kepadatan,Supaya kunci gabung wilayah + kecamatan cocok
+Air sumur,Kecamatan tercatat di wilayah (kota) yang salah,46,Wilayah diperbaiki sesuai kecamatan sebenarnya,"Kecamatan hanya ada di satu kota, jadi wilayah yang benar bisa dipastikan"
+Air sumur,Data berbentuk panjang (banyak parameter per lokasi),12420,Diambil baris parameter = IP (Indeks Pencemaran) saja,IP sudah merangkum kualitas air per lokasi dan musim
+Air sumur,Kolom nilai terbaca sebagai teks,540,Diubah ke angka,Semua nilai IP berhasil diubah (tidak ada yang gagal)
+Air sumur,Ada 1 baris STATUS bernilai angka (0.0050) bukan kategori,1,Baris itu diabaikan,Nilai bukan salah satu dari BAIK/RINGAN/SEDANG/BERAT
+Air sumur,Jumlah titik pantau berbeda tiap kecamatan (1 sampai 11 titik),44,Dicatat di kolom jumlah_titik_air,Kecamatan dengan titik sedikit kurang mewakili (keterbatasan)
+Gabungan,"Kepulauan Seribu (2 kecamatan) hanya ada di data kepadatan dan air sumur, tidak ada di data sampah dan RTH",2,Dikeluarkan dari data final (basis data sampah 42 kecamatan),Data sampah dan RTH tidak punya Kepulauan Seribu
+Gabungan,Penggabungan 4 dataset dengan kunci wilayah + kecamatan,42,Left join dari data sampah,Kunci wilayah + kecamatan lebih aman daripada nama kecamatan saja
+Gabungan,RTH per kapita belum ada,42,Dihitung = total_luas_rth / jumlah_penduduk,Membandingkan RTH antar kecamatan dengan adil (satuan luas RTH tidak dicantumkan portal)

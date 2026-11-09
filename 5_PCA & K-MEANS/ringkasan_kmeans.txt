@@ -1,0 +1,35 @@
+PCA: varians yang dijelaskan tiap komponen (PC1..PC5): 35.7%, 30.5%, 17.9%, 9.2%, 6.7%
+
+PC1+PC2 = 66.2%
+
+Loading (bobot variabel pada PC1 dan PC2):
+                  PC1    PC2
+Volume sampah   0.660 -0.059
+Penduduk        0.638  0.002
+Kepadatan      -0.162 -0.669
+RTH per kapita -0.003  0.716
+IP air sumur    0.362 -0.190
+
+k, inertia, silhouette:
+  k=2: 151.5, 0.256
+  k=3: 112.5, 0.258
+  k=4: 95.8, 0.236
+  k=5: 81.1, 0.233
+  k=6: 68.9, 0.237
+  k=7: 61.0, 0.238
+  k=8: 55.2, 0.244
+
+k dipakai = 3 (silhouette = 0.258)
+
+Profil rata-rata tiap cluster (nilai asli):
+         jumlah_kecamatan  volume_sampah_rata2  jumlah_penduduk  kepadatan  rth_per_kapita  ip_air_rata2
+cluster                                                                                                 
+1                      13               612.40        196078.31   14252.73            4.57          6.78
+2                      19               754.19        218615.11   27366.33            0.64          7.72
+3                      10              1665.95        430517.70   15749.76            2.71          8.54
+
+Cluster 1: Gambir, Menteng, Tanah Abang, Cilandak, Kebayoran Baru, Kebayoran Lama, Pancoran, Pasar Minggu, Setiabudi, Tebet, Cipayung, Makasar, Kelapa Gading
+
+Cluster 2: Grogol Petamburan, Pal Merah, Taman Sari, Tambora, Cempaka Putih, Johar Baru, Kemayoran, Sawah Besar, Senen, Mampang Prapatan, Pesanggrahan, Ciracas, Jatinegara, Kramatjati, Matraman, Pasar Rebo, Pulogadung, Koja, Pademangan
+
+Cluster 3: Cengkareng, Kalideres, Kebon Jeruk, Kembangan, Jagakarsa, Cakung, Duren Sawit, Cilincing, Penjaringan, Tanjung Priok
