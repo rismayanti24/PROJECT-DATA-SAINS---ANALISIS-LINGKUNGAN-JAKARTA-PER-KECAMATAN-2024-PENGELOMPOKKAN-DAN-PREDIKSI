@@ -49,12 +49,3 @@ DATA YANG DIPAKAI (semua tahun 2024)
 Sumber: https://satudata.jakarta.go.id
 Catatan: kunci gabung antar dataset = wilayah + kecamatan.
 
-STATUS PEKERJAAN
-[x] Pengumpulan data
-[x] Cleaning
-[x] Normalisasi
-[x] EDA
-[ ] Model PCA + K-Means
-[ ] Model Regresi Linear
-[ ] Aplikasi Streamlit
-[ ] Laporan (BAB 1-7)
